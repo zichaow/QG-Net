@@ -11,6 +11,10 @@ for Educational Content.
 _ACM Conference on Learning at Scale (L@S)_, 
 June 2018, to appear 
 
+
+![Illustration of QG-Net](https://rice.box.com/shared/static/4cjcwz25j4bll93j4wqdje06whaoez21.png)
+*Illustration of QG-Net*
+
 The project is built on top of 
 [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) 
 and uses part of the code from 
@@ -131,7 +135,9 @@ access the entire history of the input sequence, and copy mechanism
 allows the model to copy words/tokens directly from the input 
 sequence as generated words.
 
+Below is a more elaborate illustration of QG-Net model:
 
-### Sample generated questions
-TODO
+![Illustration of QG-Net](https://rice.box.com/shared/static/9bwiyq2ly84h7rev8xvjdrocnd5v312f.png)
+*Illustration of QG-Net*
+
 
