@@ -68,7 +68,7 @@ perform data preprocessing on your own. To obtain the raw SQuAD
 data, run the download script `. download_raw_squad.sh`.
 
 
-#####Preprocessing
+##### Preprocessing
 If you choose to download our preprocessed SQuAD dataset, you 
 can skip this step. Otherwise, we provide the detailed steps 
 of how we preprocessed SQuAD. If you downloaded the raw SQuAD 
@@ -87,7 +87,7 @@ stored in the `data/` directory.
 It takes about 500 seconds for the processing to finish.
 
 
-#####Trainining
+##### Trainining
 Navigate to the QG-net directory, and run `. train.sh` in command
 line.
 You should be able to run without changing any line in the bash file.
@@ -95,13 +95,13 @@ Training results will be stored in a newly created
 `results_$DATE` directory, where `$DATE` is the current date in 
 `year_month_date` format.
 
-#####Generating
+##### Generating
 In the `qg.sh` script, modify the variable `dir` in line 10 to be 
 the result directory `results_$DATE` you just created. 
 Then run the script `. qg.sh` to generate questions on the test
 split of SQuAD dataset. 
 
-#####Evaluate
+##### Evaluating
 In the `eval.sh` script, modify the variable `dir` in line 10 to be 
 the result directory `results_$DATE` you just created.
 Then run the script `. eval.sh` to generate questions on the test
@@ -130,4 +130,8 @@ In particular, attention mechanism allows the model to
 access the entire history of the input sequence, and copy mechanism
 allows the model to copy words/tokens directly from the input 
 sequence as generated words.
+
+
+### Sample generated questions
+TODO
 
