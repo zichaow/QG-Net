@@ -11,8 +11,10 @@ for Educational Content.
 _ACM Conference on Learning at Scale (L@S)_, 
 June 2018, to appear 
 
-<a href="url"><img src="https://rice.box.com/shared/static/4cjcwz25j4bll93j4wqdje06whaoez21.png" align="center" height="50%" width="50%" ></a>
-*Illustration of QG-Net*
+<figure>
+<a href="url"><img src="https://rice.box.com/shared/static/4cjcwz25j4bll93j4wqdje06whaoez21.png" align="middle" height="50%" width="50%" ></a>
+<figcaption><center>Illustration of QG-Net</center></figcaption>
+</figure>
 
 The project is built on top of 
 [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) 
