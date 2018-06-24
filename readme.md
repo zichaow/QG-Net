@@ -12,7 +12,7 @@ _ACM Conference on Learning at Scale (L@S)_,
 June 2018, to appear 
 
 <a href="url"><img src="https://rice.box.com/shared/static/4cjcwz25j4bll93j4wqdje06whaoez21.png" align="middle" height="50%" width="50%" ></a>
-<p style="text-align: center;">Illustration of QG-Net</p>
+*Illustration of QG-Net*
 
 The project is built on top of 
 [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) 
