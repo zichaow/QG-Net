@@ -6,7 +6,7 @@ mkdir ../data/train/
 mkdir ../data/dev/
 
 # process training set
-python3 preprocessing.py \
+python3 preproc_squad.py \
 -data_dir ../data/ \
 -out_dir ../data/train \
 -split SQuAD-v1.1-train \
@@ -14,7 +14,7 @@ python3 preprocessing.py \
 -num_sents $i
 
 # process dev set
-python3 preprocessing.py \
+python3 preproc_squad.py \
 -data_dir ../data/ \
 -out_dir ../data/dev \
 -split SQuAD-v1.1-dev \
