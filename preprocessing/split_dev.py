@@ -29,7 +29,7 @@ if not os.path.exists(args.path + '/test'):
 
 # peek the files and get the number of lines and see if they have the same number of lines
 def file_len(fname):
-    with open(fname) as f:
+    with codecs.open(fname, encoding='utf-8') as f:
         for i, l in enumerate(f):
             pass
     return i + 1
