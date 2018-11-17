@@ -65,10 +65,13 @@ SQuAD dataset.
 - You can use our preprocessed SQuAD dataset if you want to
 avoid the cumbersome data preprocessing steps. To obtain the 
 preprocessed SQuAD data, run the download script 
-`. download_preproc_squad.sh`.
+`. download_preproc_squad.sh`. The downloaded data, after unzip,
+should contain 3 files with prefix `data.feat.1sent` and suffix
+`train.pt`, `valid.pt` and `vocab.pt`, respectively.
 - You can also download the raw SQuAD dataset if you want to 
 perform data preprocessing on your own. To obtain the raw SQuAD
-data, run the download script `. download_raw_squad.sh`.
+data, get into the preprocessing directory `cd preprocessing/`
+and then run the download script `. download_raw_squad.sh`.
 
 
 ##### Preprocessing
@@ -80,8 +83,9 @@ dataset:
 1. First you need to install Stanford CoreNLP to process
 the dataset. In command line, get into the
 preprocessing directory `cd preprocessing/`, then 
-run the script `. install_corenlp.sh`. 
-_make sure you have corenlp installed in `data/corenlp/` directory_
+run the script `. install_corenlp.sh` and follow the default instructions
+for installation. 
+_make sure you have corenlp installed in `data/corenlp/` directory._
 2. Navigate to directory `preprocessing/`, and run 
 `. preproc_squad.sh` in command line. 
 You should be able to run without changing any line in the bash file.
