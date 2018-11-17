@@ -89,6 +89,9 @@ _make sure you have corenlp installed in `data/corenlp/` directory._
 2. Navigate to directory `preprocessing/`, and run 
 `. preproc_squad.sh` in command line. 
 You should be able to run without changing any line in the bash file.
+This file does 3 things: 1) tokenize data using corenlp; 2) train-validation
+data split; and 3) use OpenNMT's preprocess script to process data 
+into the format that the training script takes.
 The processed `.pt` data that QG-Net uses for training will be 
 stored in the `data/` directory.
 It takes about 500 seconds for the processing to finish.
