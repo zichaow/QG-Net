@@ -25,8 +25,8 @@ Feel free to modify it for your work.
 
 ### Dependencies
 python3.5 \
-pytorch \
-OpenNMT-py \
+pytorch (only tested on v0.4.1) \
+OpenNMT-py (not tested on the latest version; pls use the version in this repo) \
 Stanford CoreNLP (optional) \
 torchtext-0.1.1 (this is important; if you use the latest 
 torchtext you might encounter error when preprocessing 
