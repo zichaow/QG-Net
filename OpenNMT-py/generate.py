@@ -213,7 +213,7 @@ def main():
             n_best_preds_raw_prob = [" ".join(pred).replace('\n', '')
                             for pred in trans.pred_sents[:opt.n_best] if '\n' not in pred]
             # n_best_raw_prob = [-trans.pred_scores[i] for i in range(opt.n_best)]
-            n_best_raw_prob = [np.exp(trans.pred_scores[i]) for i in range(opt.n_best)] # raw prob, higher is better
+            n_best_raw_prob = [torch.exp(trans.pred_scores[i]) for i in range(opt.n_best)] # raw prob, higher is better
             assert(len(n_best_preds_raw_prob) == opt.n_best)
             assert(len(n_best_raw_prob) == opt.n_best)
 
