@@ -8,7 +8,7 @@ debug='False'
 selection_criterion='NLL'
 model_dir="models.for.test"
 #model="model_acc_53.29_ppl_13.59_e20.pt"
-model="LSTM-attn.pt"
+model="QG-Net.pt"
 alpha=0.2
 beta=0.2
 
