@@ -1,8 +1,1926 @@
-what is the time between the infection time of an infected person called ?
-what have been an important input for epidemic models ?
-what fundamentally influence the spread of infectious diseases ?
-what is fixed at least for the duration of outbreak ?
-what is required for immediate neighbors to store ?
-what are two examples of traditional approaches for encounter-based ?
-in what ways is infection transmitted from infectious ?
-what type of contacts are limited to individuals at neighboring sites ?
+who study rare events in networks with internal noise ?
+the probability distribution , shape , and time scale of rare events are considered what ?
+what is an example of a cross-over region ?
+what reduces hiv transmission in recent years ?
+what is data on the relationship between transmission and viral load ?
+what is a power-law model ?
+what type of modeling has been used in the last years ?
+what is the name of the popular infected-susceptible model ?
+what type of networks analyze information spreading on a particular class ?
+who consider a stochastic sir on a conguration model ?
+what limit theorems for the nal size ?
+what is the name of the graph graph ?
+how are we interested in the spread of an epidemic ?
+what is the infection process called ?
+what type of reconstruction methods for x-ray ct ?
+when does x-ray starvation begin ?
+what methods pose challenges to post-log ?
+in what way do we propose a realistic mathematical model ?
+what is a function of the number of infective ?
+what have developed the growth of the epidemic as a nonlin phenomenon ?
+what is the name of the model used by the gell-mann model ?
+what type of epidemic is the siri stochastic model ?
+what model has been given to obtain phase transition lines ?
+what is a rumor that is modeled in a social network ?
+what is a challenging problem with the infection source ?
+what is the model of estimating an infection source ?
+what is the name of the epidemic that consider epidemic models ?
+what is the name of the basic reproduction of the companion paper ?
+what provide a complete overview of the inequalities overview ?
+what is often studied by modeling correlation on wireless systems ?
+what is an example of a ppp-based approach ?
+what type of epidemics are non ?
+which we consider a hyperbolic system of infective ?
+what is analysed by solving the model of view ?
+a comparative and deterministic study of what type of epidemic ?
+what is determined by the qualitative behavior of the nonlinear disease ?
+how many random delays represent three random delays of the disease ?
+who study the dynamics of secondary infections ?
+how large is the model of large sparse model ?
+when do epidemics follow the susceptible-infective-recovered model ?
+who propose conditional likelihood variable selection for discriminant ?
+what company adds the forward stage of soda in the forward of soda ?
+what is the source of qda variable on qda ?
+what exhibit a scaling law for critical sis stochastic epi ?
+what is the name of the standard uhlenbeck process ?
+how many results are there in the sis epidemic ?
+along with computer graphics , what is the name of the computer that is based on computer ?
+what is the theory that a quenched mean-eld ?
+what type of expressions are in the star and wheel graphs ?
+how is the eigenvalue problem with a power law ?
+what happens to the study of controlling curing nodes epidemics ?
+what type of work has demonstrated that under perfect and instantaneous ?
+the assumption that a minor degradation of perfect information is called what ?
+what is an example of a survival exponent exponent ?
+how many processes serve as a simplied susceptibility ?
+what may take the form of a history-dependent step ?
+what is the name of the process used by sir - els ?
+how is the inverse - size expansion of van kampen ?
+what is the likelihood likelihood that moments are valid for low count data ?
+the question of the underlying network topology on the spread of a virus is what ?
+what enables a simple model of infection ?
+how is the time of a susceptible and infected individual moving in the graph time ?
+what do we propose a new fractional order with ?
+who extend the existing malaria model ?
+what type of reproduction is computed using the next generation matrix method ?
+what is the name of the hepatitis virus ?
+when is the transmission dynamics of hepatitis b formulated ?
+how many born babies against hepatitis b and the treatment of new born babies ?
+who explore the application of probability generating functions ?
+what is the goal of the reader ?
+what help predict a number of properties about early outbreak ?
+who formulate a multi-group epidemic ?
+what model describes the evolution of a class of a class of zoonotic infections ?
+what period is structured into a corresponding vector species ?
+what type of spongiform encephalopathy in an individual ?
+feedback is the primary means of what ?
+how many outbreaks in the european union were enacted by many governments ?
+what dynamics of disease helps an infectious disease ?
+what type of mathematical models are aimed at studying dynamics ?
+what we propose a new model for infectious diseases ?
+how does clustering compare to triples ?
+what is another name for ing networks ?
+what is possible to generate networks which is possible to generate networks ?
+what is an example of a heterogeneous user association ?
+where do incoming packets form a queue in ?
+what is the limit of the network to support real time service ?
+what is an example of a discrete-time discrete-time ?
+what is the name of 3n in 3n ?
+what is too complicated because of markov ?
+what type of partnerships may play a signicant role ?
+who derive edge-based in dynamic populations ?
+what models assume that partnerships enter and leave the at-risk population ?
+what type of events eases when some infected individuals infect more than the average number of secondary cases ?
+how many individuals have been identi in the 2003 outbreak ?
+who develop a model for super - spreading events of infectious diseases ?
+how many transmitted infections continue to present a complex and costly challenge ?
+along with social dynamics , what can have a large impact on the course of an outbreak ?
+individuals may alter their sexual behavior in response to what ?
+how many simulations simulations in the two-dimensional process ?
+what results strongly that the static exponents i/hi2 immunization ?
+what type of ratio is observed in the non-dilluted system ?
+what is the transition transition from the persistence phase of diseases ?
+the probability of descendants nodes nodes in what ?
+the descendants of the recovery time will not able to able to able to do what ?
+what propagates a virus or one competing network ?
+what will predict what proportion of the network will actually get infected ?
+what are a and b in a network in a network called ?
+what type of historical trends in the epidemic of hiv is important for assessing current trends ?
+time trends in concentrated epidemics , commercial drug users , and commercial sex workers are examples of what ?
+what was to compare the epidemic spread on static and dynamic networks ?
+what was the name of the model used by 500 500 square lattice shortcuts ?
+who is the model of the epidemic ?
+how many hosts study ode epidemic models ?
+what is the name of the study that builds on w. just ?
+who investigated the question of preventive behavioral response ?
+who study the phase diagram of the standard pair approximation equations ?
+how many models have similar phase diagrams ?
+a phase of parameter space that corresponds to weak driving corresponds to what ?
+what is the integration of empirical data in computational frameworks ?
+what is the name of the deluge deluge data ?
+how many data sources are less transparent and general in their applicability ?
+what has become an important tool for infectious disease ?
+how many theoretical studies of transmission network have either considered simple markovian dynamics ?
+what provide a general theory for early real-time behaviour ?
+what is a key parameter in the spread of infectious diseases ?
+what is the quantity of the number of infectious individuals in the large-population limit ?
+who investigate the extent of epidemics on empirical networks ?
+what is the name of the paper that queues with processor sharing sharing ?
+what is the name of the theory that queues and birth death ?
+who do the number of infectious individuals consider the number of people to consider in a epidemic model ?
+an infectious disease is structured into what kind of number of groups ?
+what type of approach depends on host mobility ?
+what is the name of the model r0 ?
+what is crucial for understanding of social networks ?
+what is a variant of a variant to a ground node ?
+what is the weighted model on the standard sir model ?
+what paper investigates the throughput throughput ?
+what can exchange data simultaneously with each other ?
+what transmission is the downside of interference to the network ?
+how many empirical studies have col col ?
+what uses data to t a probabilistic model ?
+what kind of properties of the stochastic susceptible-exposed-infected model is studied ?
+how much of an infected individual becomes either infected ?
+how many infected or exposed remains forever ?
+how many infectious diseases is a suitable model for the host ?
+what plays an important role in the short term dynamics ?
+what has studied the structure of the network structure ?
+tick-borne represents an important threat to human and what other area ?
+what is the name of the host that ticks feeding on apodemus ?
+what does the acronym nb stand for ?
+what is the name of the model that has been developed from predator ?
+how much of the population is divided into three classes ?
+what is the effect of the local stability of the ecosystem ?
+a variety of cellular network models and transmission techniques are observed by who ?
+what is the name of the most tractable model ?
+what is the dengue model where human individuals are treated ?
+who study the spread of epidemics ?
+what type of distributions are considered in two weather scenarios ?
+what paper is concerned with a lattice dynamical ?
+who prove the existence of traveling waves connecting the disease-free state ?
+who also characterize the minimal speed of traveling waves ?
+what is the approximation of the master equation for a sir model ?
+what model describes the basic parameters of the model ?
+what type of aspects have been shown to be shown in temporal networks ?
+who study the topology of the topology on time ?
+who consider city level networks with intra ?
+what do we do with a new 1-dependent model ?
+what weight do we assign to each vertex of the graph graph ?
+what depends for an edge to be open on the weights of its end ?
+what type of individuals may name some of their infectious contacts ?
+what happens to the epidemic of the epidemic ?
+who obtain explicit results under the assumption of constant or exponentially ?
+what is the name of the model that we use for disease ?
+what type of performance is the performance that an infected node node ?
+what is an example of a eigenvector centrality ?
+who consider perfect simulation algorithms for locally stable point ?
+how is a new version of the algorithm developed ?
+what type of processes are multiscale in scales ?
+what is another word for index ?
+what type of technique is used to convey the ability to convey the information ?
+how is im studied for ofdm ?
+on what month does the forecast forecast for the united states begin ?
+what month was the forecast forecast made on ?
+which season of the week did forecasts occur ?
+what type of vector is a vector of these diseases ?
+what is the name of the model of the model for the human populations ?
+what is the name of the matrix matrix in order to begin using a surveillance system ?
+which study focuses on analyzing a deterministic model ?
+what is the analysis of the analysis of the basic reproductive number ?
+what is a strong relevance of the distribution of job opportunities ?
+what is the name of the model that we investigate the epidemic spreading ?
+what introduce the weight of the infectivity exponent ?
+what can adjust the values of the epidemic threshold to a nite value ?
+what was the name of the paper that proved the closures of closures ?
+what resulted in a deterministic representation in a deterministic representation ?
+what do networks do to certain classes of networks ?
+what are emergent phenomena depending on the epidemiological characteristics ?
+what type of transit data is invisible to public data ?
+what discrepancy can induce a bias in disease models ?
+the emergence of sexual transmission in the spread of diseases is known as what ?
+what type of network has sexual transmission or vectors ?
+what provide exact predictions for the dynamics of corresponding simulations ?
+what is the benefit of quantitative methods to optimize ?
+what is the name of the nal model ?
+what determine the optimal quantity of vaccine ?
+wireless networks exhibit interference in what agency ?
+what is the characteristics of the characteristics of an alternate approach ?
+what is the name of the approach at its core models ?
+who consider the models for infectious disease spread ?
+which models allow us to consider standard sir diseases ?
+in what type of paper can deviations of the disease be found ?
+what type of biomedical approaches treat diseases in isolation ?
+what type of step is a coinfection model ?
+what type of model is a long-term infection with demography ?
+who investigate the spread of an infection ?
+what is the name of the mathematical epidemiology model ?
+infected nodes nodes through a path that contains what ?
+when is the immune system infected by a pathogen ?
+what type of immunity decays in time ?
+what boosts the duration of the immune system ?
+what is the name of the signal-to-interference power ratio ?
+what type of type form an homogeneous homogeneous poisson point ?
+what is the name of the distribution of the sir and use ?
+what is a new dimension reduction method based on ?
+what approach allows the main limitation of sir to be overcome ?
+what type of numerical studies are presented to compare the new method with some of most popular methods ?
+who consider a model for an epidemic in a population ?
+what is the disease of the disease ?
+what is the rate of the rate of the epidemic in the epidemic of an epidemic ?
+what is another name for the susceptible-infected-susceptible ?
+which models describe the time evolution of infectious diseases in networks ?
+how much of the disease is one of the ma jor goals ?
+how long has the ppp point been used ?
+what is the name of the determinantal point ?
+what is demonstrated by leveraging several computational properties ?
+what do infected infected with the rate of epidemics in a generalized susceptible-infected-susceptible model do ?
+what is reduced in the problem of the population ?
+how much of a dierent dierent infection ?
+what is the generation interval between the infection time and her infection ?
+what type of density is an important input for epidemic models ?
+what is the name of the general model that we specify that the mean generation generation interval decreases ?
+who investigate dierent mean-eld-like ?
+what is the term for the equilibrium counterpart of accuracy ?
+what is the name of the model that compare monte carlo simulations ?
+what type of dynamics dynamics is related to some infectious diseases ?
+who used ve algorithms to generate contact networks ?
+what does si stand for ?
+what is the chain model of sir disease dynamics ?
+what type of transmission is the model of stochastic households ?
+what is each method of chain monte carlo carlo carlo carlo carlo carlo carlo carlo carlo carlo carlo carlo carlo carlo ?
+what represents genetic variation as a graph graph ?
+how many path in the graph graph graph ?
+who augment the vg model with haplotype information ?
+what type of interference is icic ?
+what type of cellular stations use ppp ?
+what is the name of the user that affect the network coverage ?
+what is the name of the model that has a periodic solution ?
+what is the degree theory theory ?
+who describe some numerical results in which we compute the t - periodic solution ?
+which paper investigates epidemic control behavioral synchronization for a class of complex networks ?
+what is the quenched mean on the quenched mean ?
+how is the epidemic threshold of the model obtained ?
+how many pathogens spread between infected and susceptible hosts ?
+how many patterns of contacts are there ?
+what is a robust and growing theory of single epidemics ?
+what model was proposed by chemistry , recovered or died ?
+what was the name of the person who wrote in 1932 ?
+what happens to the model of a population in three categories ?
+what type of virus is caused by ebola virus ?
+what disease is transmitted by direct contact with the body ?
+when did mathematical models begin to analyse the ebola outbreak ?
+what type of warnings does pearl harbor have ?
+what type of analyst has observed some signals ?
+what type of maker is the decision to alert a attack ?
+what paper characterizes the performance of co ?
+what is another name for base station ?
+what type of expressions are derived from the complementary distribution function ?
+what is an example of a epidemic epidemic model ?
+what is the equation that describes the dynamics of the infected population ?
+what results about global existence and uniqueness of positive solutions ?
+what paper is concerned with the sis epidemic ?
+what part of the disease-free equilibrium is uniform analysis ?
+what results in the results of infection mechanism ?
+who study the eect topology ?
+who do not assume any propagation model or the sir model ?
+what is the purpose of explicit propagation models ?
+who formulate an partial immigration model ?
+who can immigrate into the population of the model ?
+what kind of stability is the immigration-free and infection-free ?
+how many pregnant women in sub-saharan africa are at risk of pregnancy ?
+what is responsible for increased susceptibility to malaria in pregnant women ?
+what insect is susceptible to plasmodium ?
+how long has the use of vaccines been a controversial issue ?
+who may have dierent opinions about the vaccines ?
+who has clear consequences in the spread of vaccines ?
+what type of model is considered on a dimensional l lattice ?
+how many individual individual contacts can have global infective contacts ?
+what is the name of the agreement that propose a deterministic ap ?
+what networks can change the course of epidemics ?
+how are epidemics not contingent on the contact network ?
+where do pathogens give an elementary proof of transmission ?
+a generalized epidemic model can change from the territorial epidemic to what model ?
+how is the individual-based linkage investigated ?
+what happens to the timescale parameter from 0 to unity ?
+what has a large uniformly mixing dynamic population ?
+what type of disease is susceptible to infectious disease ?
+how is the possibility of using mathematics growth investigated ?
+who is only enthusiastic in a limited period ?
+when do church members remain in recruitment ?
+what is the name of the word-of feedback ?
+what is the name of the model describing the game-theoretic model ?
+what is an example of a epidemic vaccine ?
+what type of processes are studied within a recently proposed hierarchical network ?
+how many groupings of individuals are there in the network model ?
+what type of numerical simulations simulations regardless of the degree of the degree ?
+what is the term for burgdorferi sensu ?
+what is the most common arthropodborne disease in the us ?
+what is the disease of tick ?
+what paper studies the spread of a stochastic paper ?
+what is a threshold dynamic determined by the basic reproduction number ?
+what kind of method is used for analyzing ergodic behavior ?
+who use scale-free networks to study properties of the net work ?
+what is the name of the model that we use for dense networks ?
+who thus recover the full crossover transition ?
+what is a predictor of the network vulnerability of a network vulnerability ?
+what depends on the natural history of the disease ?
+what was introduced on the theoretical framework ?
+who study an epidemic propagation between m and m ?
+what part of the model is in analyzing the migration of host ?
+how long is the simplest case of migration ?
+what is the growing complexity of heterogeneous cellular networks ?
+what is directly reected in the hetnet simulation ?
+what has gained prominence in the simulation models ?
+what does si stand for ?
+what type of structures have been applied in many areas ?
+what type of structures include the mutual interaction topology ?
+what is a natural extension of the well studied linear contact ?
+what is a combination of two 1s change ?
+what is the name of the study that has been limited to complex networks ?
+how many real-world networks are not isolated ?
+what are fully interconnected with other networks ?
+what involves the dynamics of two species within each species ?
+what model admits [ t. t. kuniya ?
+what is the name of the case that we obtain conditions for extinction ?
+what depends on the graph topology ?
+what paper is concerned with studying the time-asymptotic behavior ?
+what is a contact process with nonzero infection ?
+who study the vaccination of vaccination ?
+who developed the generating function formalism ?
+what do we consider where nodes nodes ?
+who consider s i r and s i rs models with dierential ?
+what is the global stability of equilibria ?
+what is the term for global stability ?
+who develop an algorithm for model selection ?
+what is a disadvantage of standard model models ?
+what developed for a recently developed sparse algorithm ?
+what did the coalescent revolutionised theoretical insights about ?
+how much inference under the coalescent model is extremely challenging ?
+what led to approximation of probabilities ?
+who is responsible for creating an epidemic outbreak in a networked outbreak ?
+what is an example of a epidemic model ?
+who express our epidemic control condition ?
+what type of respiratory syncytial system in florida ?
+what is the current name of the tting real data system ?
+what is the variable variable variable of the model ?
+how much of its relevance does the spreading of viral infections have ?
+what type of observations have resulted in the discoveries of the spreading process of the spreading process ?
+how many of the first detailed documentation of viral epidemics are there ?
+what is the name of the standard lter smoother ?
+what reduces the monte carlo error in the estimates ?
+what does the acronym kalman stand for ?
+what type of models are useful for infectious disease ?
+when is the likelihood function for these models expensive ?
+what may lead to poor parameter and the tted model ?
+what type of human contact networks are capable of spreading infectious disease ?
+what is the degree model of the two network properties ?
+what is the name of the epidemic study comparing alternative ode models ?
+what is the abbreviation for a model of a basic susceptible-infected-susceptible model ?
+the homogeneous system of the heterogeneous system and the heterogeneous system of the heterogeneous system is known as what ?
+how many noise terms are there in the disease ?
+what is cid ?
+what type of matrix is a non-negative state ?
+what starts with a fraction of infected nodes ?
+what pandemics immense disruption and damage to communities ?
+what is the pandemic pandemic of 2009 ?
+who propose a hybrid model to determine how the pandemic spreads ?
+what classical model was mckendrick by kermack ?
+what do a macroscopic counterpart of a macroscopic counterpart do ?
+what part of equations acquired the multiscale approach ?
+which note investigates the bias of the sampling importance of the state space model ?
+what filter is caused by the state transition noise ?
+what is an example of a big transition noise noise ?
+what type of epidemics have been complex in random networks ?
+what dynamics can be modeled with a system of three nonlinear ?
+what is the use of probability generating function of a random network ?
+what type of uncertainty is a powerful tool for limited data ?
+what is the name of the sliced inverse ?
+what increases the accuracy of the uncertainty ?
+what has been conducted since 19th century ?
+what was used to capture the dynamic of infection ?
+what is the name of the basic reproduction number ?
+what is another name for heterogeneous cellular networks ?
+what is the name of the signal-to-interference signal-to-interference paper ?
+what are the expressions of the conditional success probability ?
+what type of network is lpwan ?
+what is the name of the design layer of the lpwan solution ?
+how does using chirp spread to wide-area ?
+what type of disease models use a mass action term ?
+what do jehovah witnesses do when this interaction is a migration of people ?
+what happens when a new population is moved into a region ?
+how many models of si s ( susceptible disease have been proposed ?
+which motif-based links between many models ?
+what illustrate how different models can be derived from one another ?
+what type of mobile-peer-to-peer systems use client applications ?
+what is an example of a multiclient efciency ?
+how many resources are often aggravated by many factors ?
+a viral epidemic is published for what country ?
+what type of models are proposed in the spread of the disease ?
+what is consistent in the literature of r0 ?
+what provide a study of the problem of nding ?
+what is the name of the model that we use rumor ?
+what is based on a novel topological quantity ?
+what control is of great importance for human society ?
+what is a effective individualized control strategy ?
+what happens to the interaction between susceptible and infected individuals ?
+what can be modeled as an epidemic ?
+what is interested in spreading a message by a given deadline ?
+what solution prescribes an optimal control allocation over the time ?
+what is the joint user of the joint user association ?
+who are associated with base-stations ?
+what is either shared or orthogonally ?
+what is the abbreviation for one noma cluster per cell ?
+what is the name of the uplink framework for spatial locations ?
+how many serious infectious diseases endeavour plement in serious infectious diseases ?
+who tend to protect themselves by avoiding contacts with contacts ?
+what is another name for stochastic s i ?
+what focus focus on the nal stages of the epidemic ?
+what analysis relies on the analysis of rst-passage ?
+what is the name of the base deployed by base stations ?
+what is the name of the signal-to-interference signal-to-interference signal-to-interference ?
+what is the distribution of the tail of the origin of signal ?
+what may be interpreted as describing a population with heterogeneity ?
+what can only reduce the mean persistence time ?
+who investigate intercell interference ?
+what is the average throughput network ?
+what affect a wide variety of mammalian species ?
+what is the stability of rabbit loop protein ?
+what part of helix 3 interacts helix 3 ?
+what happens to each node neighbor with the same rate ?
+who discussed whether the mean-eld approaches could accurately describe the epidemic ?
+what could perform if the infection rates are heterogeneous ?
+what model is studied in multilayer ?
+how did the mapping to bond percolation compare to the epidemic threshold ?
+how many results provide an prediction of the epidemic threshold ?
+what is the inner source of penumbral ?
+what is another name for the spectropolarimeter inversion ?
+what is considered for the spread of an epidemic on a conguration model ?
+what type of processes are used to obtain a law of limit theorem ?
+what part of a central limit is a central part of the epidemic ?
+what is a epidemic model ?
+what is the disease that provides a method to generate vaccination ?
+what type of information is increasingly available as part of large network data ?
+what information reveals sequences of link entities ?
+what include the dissemination of information through a social network ?
+non-trivial and human contact networks are examples of what ?
+how many models have not been validated ?
+what do different spread models do to explore their relationships ?
+sis study decentralized protection strategies against what ?
+who consider a population game framework to choose where nodes ?
+how do studies in behavioral economics view that humans perceive probabilities and risks ?
+what we study the interplay between the epidemic and the epidemic spreading ?
+what can an infectious disease spread in one network ?
+what can be informed by aware neighbors in information network ?
+what provides various services to support the epidemic spreading process ?
+what is the term used to describe the edge of multi-role ?
+along with sis , outbreak threshold and epidemic prevalence , what models are sis ?
+what is the basic reproduction rate of the master equation ?
+how many shows that we can determine the epidemic threshold ?
+what has far been studied in undirected ?
+how many networks are directed by online social network ?
+what is the percentage of unidirectional ?
+what is used for a wide variety of tasks ?
+what can be a difficult task for novice users ?
+who believe that the use of nlp techniques ?
+what type of monte carlo methods introduce markovian ?
+what is the name of the epidemic generalized model ?
+what is the fourth order of deterministic ?
+who investigate the time-evolution and steady states ?
+what is the name of the computer that compare the behavior of this system ?
+what type of moments does the former latter rst ?
+what is a common use of the three-dimensional , branching structures of the three-dimensional , branching structures of the three-dimensional , branching structures ?
+what do plants do that render a population of root systems ?
+how many components of morphological complexity are analysed by disorder ?
+what is the name of the model of predicting infectious disease ?
+what is the usefulness of mathematical and mathematical simplicity ?
+what is the name of the rst paper ?
+what is the unique form of the sis state ?
+what makes the analysis of the sis model ?
+what is the largest chain rate of the lti system ?
+what is a significant threat to the public ?
+what is the effect of s. aureus to a prime focus ?
+what type of resistant vancomycin in 1961 ?
+dynamics on networks is considered from what perspective ?
+who partially describe the state of the system through network motifs ?
+what is especially adapted for modelling spreading processes ?
+what type of approach is to study the transmission of a disease ?
+how much of the recent work gives explicit consid ?
+what is an assignment of the values of a network ?
+what paper provides an analytical framework to char ?
+what have been able to derive outage probability ?
+what approach has been adopted in order to validate our analytical model ?
+what does the acronym susceptibleinfectedsusceptible stand for ?
+in what setting can the metastable state involve a large portion of the network ?
+what is not interesting about a true outbreak ?
+what happened to the surface of biomaterials ?
+how much protein adsorption on protein adsorption ?
+what does the acronym exoplysaccharide stand for ?
+who propose a formalism to analyze stochastic processes ?
+how did using an ( dimensional representation of su ( 2 ) lie ?
+who found that the generating function of the system can be expressed as a propagator system ?
+what is a certain class of single index ?
+when were optimal algorithms based on sliced inverse regression recovery recovery ?
+how many algorithms work provably under gaussian ?
+what consider the problem with sparse ?
+a heterogeneous subset of infected nodes in a network is called what ?
+what is the infection center with respect to infected nodes ?
+who has increased susceptibility to malaria infection ?
+what is another name for placental malaria ?
+what type of malaria threatens the health of the mother 's mother ?
+who study epidemics on networks that are partitioned into local com ?
+what type of structure of hierarchical networks can be described by a quotient graph ?
+who infect those belonging to the same communities ?
+what model is a canonical model for emerging disease ?
+what type of outbreaks are naturally modeled as taking place ?
+what type of challenge is the challenge in network epidemiology ?
+who study the critical social distancing strategy on the propagation of epidemics ?
+who characterize the susceptible-infected-recovered model ?
+what type of information is local information in our model ?
+who consider an infectious disease spreading along the edges of a network ?
+who has heterogeneous infectiousness ?
+what is an example of a node node ?
+what part of the world has brought the propagation of epidemics ?
+what type of layers interact with nodes ?
+what is an example of a multiplex network ?
+what is the phenomenon of respiratory diseases ?
+what is the problem with the development of predictive ?
+what is an example of a ac model ?
+what is the transmission rate of acute infectious diseases ?
+what may include seasonal changes in the environment ?
+what has happened to the transmission rate ?
+what is concerned with the analysis of vaccination ?
+how many vaccine models are in the social network ?
+what kind of population does a large amount of vaccination have ?
+in which model is the study of disease spreading infected ?
+what is the highest ranked nodes nodes ?
+what raises a serious health problem in healthcare facilities ?
+what is a useful tool for social networks ?
+what may occur in a healthcare facility in a healthcare facility ?
+what is the name of the virus in west africa ?
+how many secondary cases are generated by an infected index case ?
+what is the name of the epidemic epidemic using infected cases and deaths ?
+what is the name of the epidemic that has no extinction of infection ?
+what type of percolation percolation in the epidemic ?
+who introduce a new method to introduce the number of infections ?
+what approach is based on counting the number of possible infection ?
+along with sis , what disease is associated with sis ?
+what type of models are developed for the spatial spread of epidemic diseases ?
+how do the models of infected hosts compare to outbreaks ?
+what is to understand how spatial heterogeneity of infected populations ?
+what phase of phase temperatures were investigated by the uvvis spectroscopy ?
+what type of light intensities were monitored during the heating samples ?
+what was defined as the location of the first derivative of the first derivative of the sigmoidal transition ?
+what is the outbreak of an infectious disease called ?
+what leads to changes in contact patterns ?
+what may not be benecial as a result of rational behaviour ?
+what is disease control in public health with infectious disease extinction ?
+how many diseases may go to extinction ?
+how many intervention controls are based on a deterministic schedule ?
+what walk is one of the basic mechanisms found in many network appli ?
+who study the epidemic spreading dynamics ?
+what do each time infected in our epidemic cause in our epidemic ?
+what do epidemics do on the propagation of epidemics ?
+what is the name of the purpose of the model of quarantine ?
+what type of transition is a critical transition in the disease ?
+what is the name of the model of susceptible-exposed-infectious-susceptible ?
+what model is well studied by the corresponding particle system ?
+what is the particle system in one spatial dimension model ?
+what type of networks are composed of two types of nodes ?
+how long is the study of epidemic spread and control on networks ?
+what is not per - - fect rates ?
+what is the growth of the west african ebola virus ?
+what is important to understand a epidemic spread over regions ?
+what can combine a discrete , stochastic , stochastic model to demonstrate a discrete , stochastic model ?
+what model is developed for the ebola epidemic ?
+what does the model of susceptible and infected populations do ?
+what are data from the world health organization called ?
+what is a model of disease transmission in an open environment ?
+who use the poincar e index ?
+what is the term for disease transmission ?
+what is the name of the model that has been used to model disease ?
+what is the name of the process on contact networks on contact networks ?
+where is the elementary proof of convergence for the sis process ?
+the nodes in communication networks are usually equipped with what kind of recovery ?
+what do we aim to understand how the limited recovery resources to ef ?
+what is the name of the epidemic model ?
+who consider the diusion model in the discrete bass-sir model ?
+what is the name of the adoption of solar photovoltaic systems ?
+what is on the interplay between the dynamics and dynamics of the network ?
+what is an example of a adaptive model ?
+what is another term for `` infected individuals '' ?
+what is the power of the expectation epidemic ?
+in addition to sir and sis , how are sir and sis basic epidemic models ?
+what type of solution is highly unlikely to be found for any network ?
+what is the name of the sirs sirs sirs ?
+what chain exhibits an interesting connection with its 2n-state nonlinear ?
+what is an example of a stable xed state ?
+what has triggered an explosive attention in various disciplines ?
+how many previous works of previous works focus on static networks ?
+what is an example of a peer-to-peer network ?
+along with sis and sis , what is an example of a case obtained by kermack ?
+what has no limiting conditions for any parameter ?
+researchers believe that it is very hard to get an exact solution for what ?
+what was the aim of modeling ?
+what happened to differential equations ?
+what was used to estimate parameters of first mathematical model of epidemic ?
+do individuals change their behavior during an epidemic ?
+what are healthy individuals concerned about from their sick contacts ?
+sick individuals may be concerned with doing what to their healthy contacts ?
+who introduced the mathematical models for wireless network ?
+what is the term for the uncertainty of the jamming problem ?
+when we assess the performance of the proposed cut ?
+what is the name of the matrix matrix of infectious disease ?
+how many imposed patterns are based on prior knowledge ?
+what can assume that transmission rates for infections transmitted ?
+what is it called when the infection spreading and infected nodes ?
+what is another name for infected models ?
+along with the si , siri and siri spreading models , what is one of the most likely infection path ?
+what is the term for an arbitrary set of transmission parameters ?
+what is an example of a interleaved coded coded frequency ?
+how do deep neural networks exploit deep neural networks ?
+what is an example of a probabilistic process ?
+a class of simple mixture models are of what kind of colours ?
+how many cluster identities are only within colours ?
+what has gained worldwide attention in recent years ?
+what transforms the everyday of the internet ?
+what is the reliability issue related to ?
+what is the name of the epidemic that we outline the theory of epidemic ?
+the same theory can be used to analyze what type of models ?
+how are the models of the epidemic percolation ?
+how many cholera outbreaks are there in bangladesh ?
+where do cholera outbreaks occur ?
+what is an example of a depth of environmental variables in the context of a disease transmission model ?
+what is the name of the paper that considers a epidemic model ?
+what branch of a population lead to a threshold parameter ?
+how many households are shown to be exact as the number of households ?
+the aim of optimal vaccine sharing between two centers in the whole period is called what ?
+how many lost days does the vaccine have ?
+who explain the behavior of the optimal allocation ?
+who said that a rumor originating from a single source of suspects spreads from a single source ?
+what is a priori knowledge of the set of suspect nodes ?
+when was the map of the map estimator ?
+what type of propagation has been investigated on complex networks ?
+how long is the process of epidemic propagation ?
+what can bounce back to its original state ?
+what type of paper presents a vaccination-based control ?
+what happens to the total population amounts of the population ?
+what is the tracking objective of the removed-by-immunity population ?
+how was infection suggested to play a role in human cancer ?
+what is a role of the role of viral pathogens ?
+what alternates a novel tool tool ?
+how much of a better comprehension comprehension in developing a better comprehension malware ?
+what is the name of the system-dynamics model ?
+what illustrates the context of kinetic combat ?
+what is the abbreviation for sis in sis ?
+who said that each individual in the network is originally linked to two types of individuals ?
+what evolves into account a probability that aims into account of epidemics ?
+what epidemic caused global and regional data from a model of susceptible , infective ?
+what is the average reproductive number of 1.2 0 ?
+what type of infection is higher than ten per cent in the world ?
+how many primary goals are there in the household secondary attack of infectious disease ?
+what is the number of secondary infections in a household ?
+who said that all infections are transmitted from the index case ?
+what permissions permissions from permissions@acm.org ?
+what kind of network is a directed viral framework ?
+who assume that we have access to time data data describing the evolution of the spreading process ?
+who propose a data-driven robust optimization optimization optimization ?
+what is the reaction of the body to pathogenic microbia or severe tissue trauma ?
+what is a response of critical importance since an uncontro response ?
+what kind of inflamma response helps the body to annihilate ?
+what is the epidemic model with asymptomatic ?
+what is the name of the basic reproduction num ?
+how many global dynamics of the model without seasonal force are studied ?
+what paper proposes a stochastic geometry framework to analyze the sinr and rate performance ?
+what is derived on the model , expressions are derived on the model ?
+what is the name of the show that using massive mimo ?
+what is the name of asian flu ?
+the pandemic of the war resulted in what war ?
+what were the restrictions between western and eastern nations called ?
+in what state was a human respiratory system implemented ?
+when was the local periodic model proposed ?
+south and central american countries have increased birth defects from what type of virus ?
+what was the name of the model of the 2015 zika virus ?
+what is the name of the model used by the pan american health organization ?
+what is the rapid growth of social media and online social networks ?
+along with mathematical models , what models were used to study infectious disease ?
+what is the name of the model that made use of infectious recovery ?
+what is a uniform binomial point process ?
+what is the term for serving the serving node ?
+what type of intermediate step is the derivation of a new set of distance distributions ?
+what type of paper is seir ?
+what happens to the total population amounts of the population ?
+what is the tracking objective of the removed-by immunity ?
+what is the name of the model that random transition rates on complete graphs ?
+what do we call a positive variable on each vertex as the recovery rates ?
+what do we call a susceptible vertex at rate proportional ?
+what is commonly used to generate the average dynamics of stochastic systems ?
+what is usually used to quantify the quality of closures ?
+the concept of maximum entropy , monly in the concept of maximum entropy , the concept of maximum entropy , and what else ?
+what type of model present a model to estimate the density of aedes ?
+what consists a continuous function of infected mosquitoes ?
+what type of derivations allow the calculation of the latent and susceptible mosquitoes ?
+what is not understood that strongly immunizing childhood ?
+how many reports of incidence data can be found in the literature ?
+what dierent dierent in the literature of pertussis ?
+what paper studies spatial capacity in a wireless ad ?
+what is the name of the novel based on scheduling scheme ?
+how is the proposed scheme required for making transmission decision ?
+what is an important property of any population ?
+where do heterogeneous populations apply to the theory of heterogeneous populations ?
+what type of model is formulated for dierent ?
+what was the pandemic of the spanish flu called ?
+what is thought to have influenced the first world war ?
+what is the death rate of the pandemic ?
+what can disseminate between susceptible cells by two mechanisms ?
+what is the name of the important computer worm ?
+a new mathematical model that explicitly incorporates hybrid spreading mechanisms and evaluate what ?
+what type of behaviour processes on a network model based on a network model ?
+what process is used for the spread of epidemics ?
+how many communication networks are there ?
+in what way can one find one of the fundamental problems ?
+what kind of strategy does we study ?
+what has become central to the understanding of infectious disease ?
+what type of models have been proposed to infer ?
+what include inference approaches derived from kingmans ?
+what sketch a quick and dirty geometric approach to the tate-swan approach ?
+along with graeme , graeme and graeme , who else besides graeme ?
+what is on the theme of the theme of spectra ?
+what is the most important development of mathematical epidemic ?
+what may not behave according to the threshold ?
+what is the name of the model that we focus on the nal paper ?
+what is another term for ebola words ?
+what type of modeling modeling in epidemic modeling ?
+what is the estimate of r0 in 1995 ?
+what is a theorem for generating exact closures ?
+what enables us to obtain a systematic reduction in the stochastic model ?
+what is the largest transmission of the block concept in graph ?
+what is the name of the paper that aims at predicting the maxima values ?
+what is applied by the maxima of the state ?
+what is found that quantities are characterized by a high degree of predictability ?
+what is an example of a class of epidemic in this period ?
+who assume that the transmission rate could be stochastic and the presence of a latency period ?
+what type of vaccination can mitigate damage ?
+how many available resources are there in many cases ?
+what type of vaccine is used to impact the magnitude of the epidemic ?
+what can be modeled as the sis propagation ?
+what is an example of a computer that can install random immunization propagation ?
+what may produce large work and update antivirus ?
+what is the name of the model that study on a graph model ?
+what type of entries are assumed to be density-dependent ?
+what branching results for the epidemic process ?
+what studies suggest that contact patterns follow heterogeneous inter-event times ?
+what affect the spread of infections in a non-trivial way ?
+who propose a stochastic model to generate temporal networks ?
+who consider the interplay of vaccination and migration rates ?
+who show that short-term and long-term migration can inhibit disease ?
+why might migration rates be chosen to maintain herd immunity ?
+individuals interact with each other ?
+what is another name for online social networks ?
+how is a multi-layer network conjoined with a physical network ?
+what do people do with heterogeneity in intensity of interactions between people ?
+what is the infection rate of the susceptible-infected-susceptible model ?
+how much of the fraction of infected individuals are there ?
+who consider the problem of controlling the prop - agation outbreak ?
+who analyze a networked version of the susceptible - sis model ?
+what is controlling the spread of an epidemic outbreak ?
+how many versions of small-world networks are there ?
+what is another name for incuba ?
+what is tran in these models ?
+what is the name of the epidemiological model based on ?
+how many models assume a lifelong protection through vaccination ?
+how many asymptotic states in the disease-free equilibrium ?
+what plays a set of inuential in complex networks ?
+what is an example of a inuence strategy ?
+what are spin , spin , and degree discount ?
+what is found in mammals that causes infectious diseases of the nervous system ?
+what type of diseases affect a wide variety of mammalian species ?
+what studies shown that rabbits have a low susceptibility to be infected by prion ?
+a series of small world networks in the real world are called what ?
+what model is more similar to the real world ?
+do networks have the same world properties ?
+what are two important dynamical processes over complex networks ?
+who have been investigated separately for a long history ?
+in the real world , what other dynamics can interact with each other ?
+what is a deterministic mathematical model for malaria ?
+how does the model of dierential non-linear ?
+who used next generation matrix to derive the basic reproduction number ?
+in what type of networks can the topology of the underlying network be found ?
+the speed of spreading in the infection is set in what model ?
+the speed of any dynamic process is mediated by what ?
+what happens to the attack ratio of disease inference and public health planning ?
+what is an example of a serotype-specific immunity ?
+what type of method is used for estimation of the attack ratio ?
+what kind of externalities externalities from an individual failure ?
+how many key purposes of bank regulation is to internalize ?
+which study proposes a method to evaluate and allocate the systemic risk of epidemic ?
+what analyses use the standard path loss ?
+the standard path loss is a function of what ?
+what can lead to a single path loss exponent ?
+who consider a sirs model with time dependent transmission rate ?
+who assume time dependent vaccination ?
+what is an example of a vaccination of vaccination ?
+in what season is the spread of epidemic studied ?
+what results in the heterogeneity of epidemic transmission rates ?
+what is the way to gain microscopic insight into the spreading of disease ?
+what is part of a series of real-time weekly forecasts ?
+how many results of a forecast initiated in the united states ?
+what month was the forecast forecast made on ?
+what type of model is studied in a epidemic ?
+what type of tools can be used to analyse the epidemic ?
+how is the process approximated ?
+what type of paper is concerned with sir ( susceptible infected household models ?
+how many dierent models are analysed ?
+what infection is predetermined in the rst model ?
+what is the name of particle filter algorithm ?
+how is a color distribution model used ?
+who proposed approach controls deformation ?
+what is the epidemic of an infectious disease called ?
+what is a message in which a message is viral ?
+what is commonly referred to as viral marketing ?
+in what chapter of this period did surveillance analysis occur ?
+what type of data is ubiquitous in their analysis ?
+what describe the aims of a surveillance endeavor ?
+what model describes the evolution of three species ?
+a susceptible s can do what with an susceptible infection ?
+what may recover with a rate of a rate ?
+what virus is commonly known as measles ?
+what is the name of the eective vaccine ?
+where did recent outbreaks occur in 2010 ?
+what is the most desirable mitigation at its origin ?
+what has often originated in rural areas ?
+what dynamics in rural regions have received limited attention ?
+what epidemic model is investigated by free boundary ?
+which model describes the transmission of diseases ?
+what is the behavior of positive solutions to a reaction-diusion system ?
+what is the number of basic repro model ?
+in what type of case can a model of a model with a mutation be driven ?
+in what decade did the advent of realistic epidemic occur ?
+what type of models aim to be at a level of households ?
+what has been done to provide coupled between behavioral changes and the disease ?
+public vaccination and treatment of symptomatic are examples of what ?
+what models have a long history of assisting in public planning and policy ?
+what introduce epidemic models to introduce epidemic models ?
+what is a important problem in infection modelling ?
+what have been proposed in the literature of literature ?
+who study the performance of a number of methods ?
+what is a local spread of disease transmission on a regular network ?
+what type of treatment is comparison with ill individuals ?
+how many general strategies emerge in global preventive treatment ?
+what is another name for the contact process ?
+the moment ratios of the order parameters were set for what class ?
+what is the title of the mean-eld sc ?
+what is closely connected to dynamics on complex networks ?
+how does network network differ from network ?
+what part of the network is contained in the central part of the network ?
+when did research that focuses on the understanding of the relation of the relation of graphs occur ?
+what includes the performance of function formalism ?
+how is a epidemic connected to the connected graph model ?
+who is the set of power in the paper ?
+who is modeled in a multiuser system ?
+what happens when the power region is convex ?
+what is a fully connected network of nodes ?
+who analyze the push-type epidemic algorithm ?
+who write the round as a random walk in the network ?
+what paper introduces a theoretical framework for the analysis and control of heterogeneous agents ?
+what type of process is used in the sir model ?
+what simulations simulations results in the effectiveness of the results ?
+what depends on the spread of infectious diseases ?
+what is essential to inform models and computational efforts ?
+how many studies are available that provide the number and duration of contacts ?
+what is the evolution of antibiotic resistance ?
+what need for sustainable strategies to cure bacterial infections ?
+how many attempts to restore susceptibility ?
+what models provide the theoretical framework for describing disease spread ?
+where are the models of pandemic spread ?
+what is usually studied at the mean - eld level ?
+what type of communications is promising in cellular networks ?
+the concept of guard distance pairs in the same cell is what ?
+what is another name for the signal to interference ratio ?
+what type of access is access to a motorway network ?
+what metering on slip roads can control access to the motorway ?
+what feature of ramp metering strategies has several features in communication networks ?
+what do we study on the spread of diseases in lattice-embedded ?
+the geographical structure of the geographical structure is related to what distance ?
+what model has great inuences on the temporal behavior of epidemic ?
+what is prone to the onset of large epidemics ?
+disease propagation may be suppressed in what ?
+what model is the nonlocal disease a model for ?
+what is the existence of the nite volume ?
+what type of compactness is the convergence proof based on ?
+what is modeled by an extension of the conguration model ?
+what type of model is dened ?
+what is derived from the size of a ma jor outbreak ?
+what is the epidemic threshold ? ?
+what is a virus result in an epidemic ?
+which theorem provide the super-model theorem ?
+what is the epidemic threshold of the epidemic dynamics ?
+how many numerical simulations models are on various types of networks ?
+for which model is the susceptibility measure awry ?
+a class of deterministic nonlinear in what kind of class ?
+what is another name for susceptible-infected-recovered ?
+what do we do with a comprehensive nonlinear analysis ?
+who study a stochastic process describing the onset of spreading dynamics ?
+what is the cyclic process called ?
+what is the name of the open process ?
+what may give basic guidelines for public practitioners ?
+what must a mathematical model be used in decision-making ?
+what is the name of the sir of sir s s ?
+what is recommended as first-line in mssa ?
+what has contributed to the safety profile of cefazolin ?
+the compartmental models used to study what type of spreading ?
+what can make networks more vulnerable to the spread of diseases ?
+who show that networks become more likely to contain a pocket of infection ?
+what part of information dissemination affects individual behaviors ?
+how is vaccination determined by the cost-related factors ?
+what type of process is information-epidemic in multiplex ?
+when does the body gets infected by a pathogen ?
+what decays after recovery decays ?
+what boosts the immune system in the environment ?
+what is the name of the epidemiological model ?
+how is the use of a normal form of a normal form coordinate ?
+what was the cause of pro jects ?
+what is the numerical simulation of continuous-time spreading on complex networks ?
+what happens to the high heterogeneity of the connectivity structure through epidemics ?
+what is the term for the gillespie algorithm ?
+how do the models of epidemic spread in epidemic spread ?
+what type of models may be substituted for more detailed models ?
+the standard mass action is appropriate to use what ?
+how many information spreading models are identical ?
+who can ignore the curiosity level of people ?
+what was the name of the game emon ?
+what evolution of tumour evolution ?
+what provide a statistical framework for evaluating the molecular variation of a molecular variation ?
+what is the name of the multi-sample version of the data ?
+who proposes a stochastic volatility formula ?
+who describes how the model could be extended to stochastic interest ?
+what paper is devoted to the construction of hestons ?
+what type of neural network strategies for source separation attempt ?
+what measures the distance between waveforms and waveforms ?
+what is an example of a motivated measure ?
+who study an si type epidemic ?
+what is found that controls the stability of the disease-free equilibrium ?
+who obtain conditions on the age - dependence of susceptibility ?
+what depends on a user in a mmwave system ?
+how many works modelled blockages using random shape theory ?
+what is an example of a intuitive model ?
+what paper is devoted to the epidemic of an infectious disease ?
+what considers the situation between the pub - lic health detection system ?
+what strategy consists of examining the basis of information collected by the basis of the information ?
+what scheme is used for path loss ?
+what is the current name for the mac protocol ?
+what provide a general framework for the analysis of outage ?
+what type of network allows for tunable ?
+what is the model of the conguration model ?
+what is obtained by forming small completely connected subgroups ?
+what is the name of the base of base stations ?
+what is the name of the edge of the edge of tackling ?
+how did the existing strategies of network performance compare to the complexity of network ?
+what type of epidemic is introduced in a growing population ?
+what part of the epidemic is stochastic ?
+what happens to the values of the parameters of the parameters ?
+what pandemics immense disruption and damage to communities ?
+what do we propose a hybrid model to determine how the pandemic spread through the world ?
+what model combines the model for global connection ?
+what processes track the size of a univariate population ?
+what has restricted statistical inference in these models ?
+who rely on computationally expensive methods ?
+who investigate the sensitivity of epidemic behavior ?
+what is a constraint motivated by modern social networks ?
+what susceptibility arises in distributed com policies ?
+what is recognized as one of the key components of the emerging fth network ?
+what type of applications do strict half-duplex links meet ?
+what is it called when providing more con - tent ?
+the risk of infection is a function of what ?
+what type of approach eliminates the need for dene ?
+what kind of model is the model of a patch ?
+who study extended infection fronts ?
+what is a dynamic critical behavior of the infection ?
+what is the name of the epidemic model that investigate data dissemination ?
+what is the amount of data transferred between network nodes ?
+what means the less severe epidemic progression ?
+what exhibits robust escape behavior ?
+sensory and motor systems are examples of what ?
+how is the process of the process phenomenologically ?
+what is a challenging issu dynamics in the epidemic ?
+how many research has been done on targeted immunization strate ?
+what is information about the global structure of the contact network ?
+where do contact patterns occur ?
+what type of mathematical methods are used for epidemiological ?
+in what way can contact patterns be quite uid ?
+who consider a general stochastic model for an sir epidemic ?
+who write the message passing the message of equations for the model ?
+what is an example of a xed solution ?
+which years have seen a large amount of interest in epidemics on networks ?
+what type of choice is conguration in theoretical studies ?
+where do the early real time behaviour take place ?
+what type of malaria is lethal disease ?
+what is an increasing need for models of malaria control ?
+what kind of model develop a model for malaria ?
+what type of models are increasingly used in real-world ?
+how many infected nodes nodes in a network ?
+what is based on spectral decomposition ?
+what type of patterns play vital roles in spreading infectious diseases ?
+what type of patterns are important for epidemiological ?
+what type of network-based network-based at the same time ?
+what paper is concerned with the rates of disease ?
+what is the global dynamic number of r0 ?
+what is the number of specically if the disease is extinct ?
+what is the name of the hepatitis virus ?
+what is one of the compartments model compartments in vaccination ?
+what happens to the immunity provided by the vaccine ?
+who consider interacting four models of control strategies ?
+safety niches are considered to be what ?
+what represents a novelty with respect to standard ecosystems ?
+which paper studies the problem of locating multiple diffusion sources in networks ?
+who propose a new source localization algorithm ?
+what algorithm extracts a algorithm using a ion algorithm ?
+what model are the model concerned with ?
+what do we do with i. ?
+who study the existence of traveling waves ?
+which classes are involved in the traveling wave solutions ?
+the minimum speed for the existence of traveling waves can be called what ?
+what virus is associated with the early middle ages ?
+what is the propagation of the virus analysed by ?
+what is the name of the model that analyse the potential dynamics of the virus ?
+what is an important role in process control ?
+what is a theoretical solution to the simultaneous estimation problem ?
+what is a need for simultaneous estimation exist ?
+what is the epidemic of an infectious disease called ?
+what is a message in which a message is viral ?
+what is commonly referred to as viral marketing ?
+what is the name of the process spreading the top of complex networks ?
+what is the control of a node void ?
+what exists that there exists a critical time tc ?
+what is the role of post-translational modication in eukaryotic gene regulation ?
+what type of silencing silencing in cell fate ?
+who formulate a coarse-grained model of chromatin ?
+what is one of the most important processes of dynamic processes ?
+what span span a broad range of sizes ?
+what is another name for magnetic points ?
+how does the infection transmission rate compare to the epidemic layer ?
+what happens to the infection information of a node information ?
+what kind of paper focus on susceptible-infected-susceptible ?
+what studies suggest that heterogeneous network structure between elements plays an important role in determining the threshold of infection rate ?
+the infection rate at each node depends on what ?
+who present an analytical solution to a one-dimensional model ?
+who use a quantum mechanical approach ?
+who calculate the density of infected infected infected ?
+what type of paper is susceptible to infected and susceptible populations ?
+what disease does not take into account for a normalizing effect ?
+in what way is the model considered a mixed model ?
+asymptotic is a epidemic model of what stochastic model ?
+what is close to the permanence of permanence ?
+what develops the underlying system of the underlying system ?
+what kind of inuential nodes in a network ?
+how many measures based on the network topology ?
+what is one of the most real-world networks ?
+what type of populations have been documented in both biolm and planktonic ?
+what is still little about the tolerance of tolerance ?
+what has been accumulating and provides the failure of typical dosing protocols ?
+what is the name of the heterogeneous cellular networks model ?
+what is another name for space division multiple access division ?
+what type of distribution is used in closed form rate and per user ?
+what is the epidemic spreading on arbitrary complex networks ?
+who propose our implementation of a naive sir algorithm ?
+what is the name of the naive sir algorithm ?
+what is the name of the stochastic dierential equation ?
+what is possible to model the classical ross-macdonald model ?
+what fails in several respects respects ?
+the model predicts that a greater number of cases is usually called what ?
+who study the risk of global , local and community-level ?
+what is the name of the model on modular net works ?
+what is an example of a scale-free progression ?
+what is another name for cellular networks ?
+how has ofoading been studied for the downlink ?
+what is not understood in coupled with downlink-uplink ?
+what do immunization strategies allow immunization strategies to control ?
+when can immunization rate not be immunized ?
+what is a circumstance that calculate epidemic thresholds thresholds ?
+who study the combined of aging and links ?
+what is the name of the susceptible-infected-refractory model ?
+the preferential attachment scheme of a node scheme based on what ?
+what is distributed as two general point processes in a letter ?
+along with the user point and user point point , what is the point of the conditional coverage ?
+what is another name for pcp cluster ?
+what is the name of the u 's irreducible paper ?
+what is the name of the emergent theory of the fittest ?
+how many previous studies of epidemic dynamics are on complex networks ?
+what exhibit epidemics in one region ?
+in what part of a network is a epidemiological epidemiological ?
+what method is used to simulate complex interactions ?
+what is often counter balanced by the computational model ?
+what is an example of a compu denitions ?
+what is a key health issue of new diseases ?
+epidemics and recoveries passing the process of what kind of models ?
+what is the name of the susceptible-infective recovered on a random graph graph ?
+what type of paper is concerned with the sis epidemic ?
+what is the name of the value of the value of the ing value ?
+what is the unique disease of the disease free equilibrium ?
+what type of epidemics is contact tracing ?
+what is a theoretical perspective of contact with disease dynamics ?
+what is the name of the type of type of outbreak model ?
+what type of health response does a new epidemic have to monitor ?
+what was the name of the outbreak that caused pandemic ?
+what is an example of a real-time inference model ?
+what is the standard approximation of infection spread for ?
+what is a study of the study of the depen phase ?
+what is the regular random graphs of the pa model ?
+what is the broad class of epidemic nal ?
+who exploit a particular representation of the stochastic epidemic ?
+the algorithms we allow us to extend what model to a model ?
+who study the spread of stochastic sir epidemics ?
+how many school and one household are there ?
+what are the partitions of the population into schools ?
+who consider the problem of identifying an infection source in a network ?
+what derive the most likely infection source ?
+what results on regular trees ?
+what type of competition is observed in many contexts ?
+how long has a substantial body of research been developed ?
+which we analyze the outcome of network dynamics ?
+who study the stability properties of a susceptible-infected-susceptible model ?
+how is a threshold phenomenon in the majority of the work on infection spread ?
+when is curing rates in the network ?
+who study the model of an endemic infection ?
+who calculate an exact expression for the mean number of transmissions ?
+who derive the large-n asymptotic behavior ?
+how many dimensional ecoepidemiological model susceptible to infected prey ?
+what is the functional response of the functional response ?
+who studied the behavior of the model with disease ?
+what is one of the effects of wireless networks ?
+how do the asymptotic analyses compare to the performance of interest ?
+what is the name of the distribution of distribution in wireless network ?
+what do we consider a epidemic model with ?
+what prove the existence of the global positive solution ?
+how does the krylov-bogoliubov method obtain the existence of invariant measures ?
+what system resembles a stochastic model for a le-sharing network ?
+what is the name of the model of coagulation ?
+what is explored in addition to settling-time ?
+what presents a long standing challenge for epidemic models ?
+when are external and seasonally driven ?
+what is the model of the standard state solution ?
+what type of wireless network is a ad-hoc network ?
+what is inappropriate for traditional approaches for deterring ?
+who propose the worm interaction approach ?
+what type of diseases are practically represented by models and complex transition rules ?
+infection events are often more complex than what ?
+along with sir models , sir models and sir models , what is an example of simple transition rules ?
+what is the name of the classical classical model ?
+what is the name of the equation equation ?
+what is an example of a dirac measure ?
+what is a detailed analysis of the coverage and spectral ?
+how much of the statistics does signal-to-interference take on ?
+what is based on the analysis of the alpha-beta-gamma model ?
+what is the epidemic process on a graph graph ?
+what coupling extends if secondary infections is greater ?
+what may be dropped regarding the probability of an innite epidemic ?
+who study a system of random walks known as the frog ?
+how many particles occupying o are active ?
+what do active particles do with t n { ?
+who investigate the dynamics of an epidemiological model ?
+what model combines epidemic on the network ?
+who enables a computational approach to study the dynamics of the network ?
+what is the function of a time series ?
+who made some conjectures conjectures in 1943 ?
+who prove khintchines conjectures in special cases of harmonic oscillators ?
+what are often modelled using non-linear systems ?
+what consider stochastic extensions in order to capture unknown unknown ?
+how many models assign diusion ?
+what is the name of the general epidemic of the susceptible infected ?
+the message is based on whose message ?
+what is the term for general stochastic epidemic ?
+what can happen to immense disruption ?
+how many models are harder to apply at a global scale ?
+what paper introduces a hybrid model for pandemics ?
+what type of network study a model of network adap ?
+what is ran in the network model in the network model ?
+what did analyzing the joint evolution of the spreading of the network cause ?
+what is another name for the base station of the ul ?
+what is the cell of the johnson-mehl cell called ?
+what is the current name for the ul signal model ?
+which models have become popular in the liter - ature ?
+what derive a fractional-order model from a stochastic process ?
+the fractional derivative appears in the master equations of a walk through whom ?
+what is widely used to analyze mathematical models ?
+what is geared toward deriva in other models ?
+what weaknesses are not known for validity of approximations ?
+what do vaccination call vaccination ?
+in what model do susceptible people become infected with probability ?
+what will be infected with probability of probability ?
+what epidemic is analyzed by seir ?
+how many hospitalization numbers are there in the state ?
+when did the period of hospitalization occur ?
+who consider a family of periodic seirs models ?
+what type of simulations simulations the basic reproduction number ?
+what epidemiological epidemiological in analyzing the spread of infectious diseases ?
+what cascading cascading failures or epidemics in networks ?
+how many existing works treat the network topology ?
+how many agents are able to strategically decide their connections ?
+what is a numerical study of synchronization and extinction done for ?
+how many dynamical stages in a synchronized state ?
+what is the second stage of the second stage ?
+who study the spreading of an infection within an sis model ?
+what type of agents are given breaking their links with infected agents ?
+what type of links are either removed or reconnected ?
+what is the epidemic model on a random graph model called ?
+what is a corollary limit for the extinction time ?
+what is the contribution of countably in the epidemic ?
+what is the main component of the s i s s s ?
+what kind of ferent weighted weighted ?
+how many models start to start from non-weighted ?
+what is prone to epi in conventional wisdom ?
+what type of model is a novel model ?
+what is an example of a collection of epidemic models ?
+what is the name of the person who generalize the approach of the sir epidemic model ?
+what is an example of a assumption that is satised ?
+what is the name of the simplest epidemiologic model ?
+what type of health concerns are related to marketing concerns ?
+in what way is the basic transmission model analyzed ?
+what is a question of undesired in many disciplines ?
+when did the predictability of invasion of a broad class occur ?
+who approach the problem of the science of complexity ?
+what model provides an upper estimate on the stochastic process ?
+what relies on the observation that the epidemic process is negatively correlated ?
+what is the results of arbitrary and directed networks ?
+what is the name of mal - ware 's online social networks ?
+how much viral spread has been analyzed on large graphs ?
+how much of the backdrop backdrop backdrop ?
+the static properties of the fundamental properties of diseases allowing immunity to be known as what ?
+how much of a number of dynamics must be taken into account for a number of dynamics ?
+who expose the role of criticality ?
+what type of individuals are closely related to the random change ?
+what models analyze the impact of the environment ?
+how many contributions consist of extinction ?
+in what field of study is the hamiltonian edited ?
+what is the name of the company that results inferior to the paper ?
+how many epidemic models assume equal mixing among members of a pop - ulation ?
+what type of approach is to model a population as a random network ?
+what is the name of the paper that builds the research of epidemics ?
+what simulations dynamics simulations dynamics on very large networks ?
+how many treatments may capture some macroscopic proper ties ?
+what may be inter in the whole network ?
+what is a numerical study of an epidemic model ?
+what was the name of the model used by dynamical ?
+what is the name of the gamma tions ?
+interference is the main factor of what kind of systems ?
+the locations of transmitters is often modeled as what ?
+what are the models of the ppp channel ?
+what type of models use epidemic dynamics ?
+what is another name for the model of a disease model ?
+what is the name of the work that we extend the work of disease dynamics ?
+how many key challenges are there in modeling ?
+what type of theory is signif ?
+what happens to awareness of an epidemic in a population ?
+how many models of epidemic spread a common qualitative structure ?
+who are the numbers of infected infected infected by a branching process ?
+what are consequences of assuming a branching structure in the models called ?
+who study the optimal control problem of an information epidemic ?
+what is the process propagation propagation modeled as ?
+what type of recruit recruit ment ?
+what lines observed by the hinode/sot limb ?
+how many lines analyse a solar white-light dataset ?
+what paper addressed the issue of estimating the damage caused by a computer virus ?
+sir model capturing the spreading process of a digital virus is called what ?
+what fraction of the virus is modeled by the virus ?
+what is the heterogeneity of the heterogeneity of infection rates ?
+what type of model is the benchmark benchmark ?
+what is a newly designed distributions of infection ?
+what is another name for sliced inverse regression ?
+what is the sample of the dimension when the dimension and n is the sample of the dimension and sparsity ?
+how long was the conditional covariance matrix of the conditional covariance matrix ?
+what field of study has considered continuous time stochastic models ?
+what are the amount of contacts of individuals in the stadium ?
+what type of example is the three waves of inuenza ?
+what is the name of the model that has a optimal control problem ?
+who prove existence and uniqueness results in the case of mass-action ?
+what is the name of the book published in 2010 ?
+what is another name for myspace and facebook ?
+what is analogous to adoption and abandonment of adoption and abandonment of adoption ?
+what is the name of the model of disease spread by incorporating infectious recovery dynamics ?
+what models are often regarded as recent innovations in the description of infectious disease ?
+what recently described a single equation model ?
+what type of approach was dr. william farr in ?
+who study how the spread of computer viruses , worms , and other self-replicating malware ?
+who consider a model in which each host can be removed ?
+what characterise the size of the population that eventually becomes infected on the network topology ?
+what type of epidemics is a dierential model developed for ?
+what does the model of the susceptible and infected populations do ?
+what is the principle of the model of tracing ?
+who propose a model of rumor ?
+what may be implemented either skeptical activists ?
+how many mechanisms are similar to a zombie outbreak ?
+what happens to each node neighbor by an infected neighbor ?
+what is the infection rate between a pair of nodes ?
+in what way do we understand how heterogeneous infection rates inuence ?
+what junction is coupled with a single mode electromagnetic cavity ?
+what happens to the coupling through the electric mode ?
+when is the time-averaged injected into the junction ?
+when do operators address the explosive growth of mobile data demand ?
+what motivates the use of modern wireless networks ?
+what is the abbreviation for successive interference capabilities ?
+what is a further study of reference ?
+what is concerned with the contact process with random vertex weights ?
+what result in the survival probability of the survival probability of the survival probability of the process probability of the survival probability ?
+who study the spreading of an infection ?
+what type of agents are given breaking their links with infected agents ?
+how is the network coevolves ?
+how many long-standing question is there to allocate limited amounts of vaccine ?
+how much of the literature of literature has focused on the problem of vac ?
+what work applies com - putational models ?
+what is an example of a model that introduce the site of site contamination ?
+what is the name of the site where a site is assigned to bounded ?
+when is the origin of origin infected ?
+how are functioning pathogens similar to life ?
+who occupy their hosts for a few days ?
+what type of transmission is airborne , direct contact ?
+what is the basic reproduction number of individuals infected by an infectious person ?
+what is the severity of the severity of the outbreak ?
+in what discipline is there a relationship between r and r ?
+what is the performance of maximum ratio com ?
+prior to work , how many extreme cases are there ?
+spatially-correlated characterize the performance of what in the presence of spatially-correlated ?
+who study the stochastic susceptible-infected-recovered model ?
+what process is decomposed into a deterministic model ?
+what happens to a limit cycle in the deterministic dynamics ?
+who study the spreading of a disease on top of structured disease ?
+how many numerical simulations simulations the sis models ?
+what results that the connectivity uctuations connectivity of the network ?
+what models prove the existence of at least one endemic periodic orbit ?
+what is an example of a disease-free periodic orbit ?
+a sharp threshold between existence and endemic periodic orbits orbits in what ?
+how many vaccines developed rotavirus in sub-saharan africa ?
+what is critical about the transmission dynamics of rotavirus intervention ?
+who examine rotavirus infection in the maradi area ?
+what is a great challenge to prevent the spread of human diseases ?
+what may have limited vaccine resources ?
+what is the name of the model that uses limited vaccines ?
+what is determined by a complex set of host-pathogen infection ?
+what exists large body of literature describing influenza virus variability ?
+what is used by viral immune escape mechanisms ?
+who analyse the observations of the noaa ar ?
+what is the name of the pro pro of the fe i ?
+what code have the data been inverted by ?
+what is a method for the reconstruction of networks ?
+what is the algorithm of our algorithm ?
+what show that global consistency with the data can be achieved ?
+what paper is concerned with stochastic sir and seir ?
+what are the models of the infectious nodes models denoted as ?
+what approach approximates the early spread of an epidemic ?
+what epidemic currently play a central role in our attempts ?
+what derive a model for the diusion limit ?
+what consider the early asymptotic exponential growth phase of epidemics ?
+what is a computer virus called ?
+along with the sis and sis , what is a notable state of the spread of the sis ?
+what is shown that the threshold of its outbreak in both models approaches zero under nodal ?
+what is another name for visual comfort assessment ?
+what has been done on the perceptual evaluation of stereoscopic ?
+what is the name of the stereoscopic image ?
+what deliver the observations of dierent physical quantities ?
+how long is a geometrical height of a geometrical structure ?
+what is crucial in understanding the spatial variation of physical properties ?
+what we introduce a statistical inference framework for estimating the contagion source ?
+what is the framework of a partial epidemic ?
+what is an example of a number of dierent likelihood ?
+what do networks do in networks with community structure ?
+which rst rst work on networks ?
+who study diffusion on network models ?
+what type of dynamics do jehovah witnesses argue the localization processes not by ?
+what is the name of the bursty model ?
+the maximum prevalence of the bursty process on what process ?
+who show the standard field theoretical language on creation and annihilation operators ?
+what is the stochastic model for hepatitis c virus c ?
+second quantization , creation and annihilation operators are examples of what ?
+who explore the emergence of persistent infection in a patch ?
+who investigate the persistence of contagion ?
+who observe the initial population of infection progression ?
+what is an example of a semiparametric model ?
+how many hand make the recursive version of the model of the model ?
+what procedure is used for the estimation of the regression function ?
+how are network dynamics presented as a time ?
+what approach examines the dynamical properties of transmission ?
+what encodes time and interactions as network connections ?
+who investigate the temporal evolution of magnetic evolution ?
+who study the diffusion of information in an overlay - ing network ?
+what is the name of one of the online social networks in the usaf ?
+the epidemic model diffuses according to the epidemic of what epidemic ?
+what data is a recurrent issue in epidemiology ?
+what is proposed for making inference in epidemiological ?
+what method relies on numerical simulations ?
+what is another name for susceptible-infected-susceptible ?
+the structure of interactions in the population is what ?
+what cases where the transmission of infection depends on their connectivity ?
+what is the name of the infectious spread of susceptible-infected-recovered ?
+what focus on early outbreak stages ?
+what is an example of a outbreak ?
+what type of threat is resistance in humans ?
+what has been advocated as a complement of drug treatments ?
+what shows the frequency of totally recessive autosomes autosomes ?
+how many epidemiological models in a nonlinear transmission ?
+how is it argued that form reects ?
+what has models with large-scale simulations models ?
+how long is fully-convolutional when designing neural network ?
+what happens to a novel network design design ?
+what are u - nets based on ?
+what type of inversion codes are powerful to analyze observations ?
+what type of codes differ from numerical procedures ?
+what is predictions at an implementation widely used by ?
+a trend in cross-border epidemic is developed for what standard ?
+how is the method of public intervention in managing travelers reported ?
+who was responsible for the change in the sars outbreak ?
+what type of interpersonal is interpersonal ?
+what has not been seen an eective eective ?
+what type of related works is on information propagation propagation ?
+what is the matrix of the spectral matrix called ?
+what is the term for a large class of random graphs ?
+what happens to tight and novel bounds in partic ?
+what is the name of the neighborhood based on a neighborhood based in las vegas ?
+what is the name of the daily records of geo-coded program ?
+who use data to test whether a spatially mediated mediated peer ?
+what type of awareness can be modeled in infection dynamics ?
+what type of models show an active phase with constant infected node density ?
+who develop a method to study the structure of the structure of the characteristic distributions ?
+what is the epidemic model with a variable probability of infection called ?
+the probability of infection depends on what aspect of eco ?
+what country has the potential to spread globally ?
+what type of social interactions provide us with new sources of data ?
+what type of human activity is often bursty ?
+which burstiness burstiness phenomena in some cases ?
+who wrote ode models of epidemic spreading with a preventive behavioral response ?
+what type of studies have mostly focused on the impact of outbreak ?
+where is the question of response to prevent future are-ups ?
+what drives a robust economic model to extinction ?
+what is a issue in the theory of stochastic epidemic ?
+what enables us to provide rigorous convergence guarantees ?
+what is the name of the point in which all transmitters form ?
+who is found in closed-form in this letter ?
+what is the name of the mean mean ?
+what is the name of the mean-eld epidemic ?
+what type of variants are situated at the sites of a lattice and infectious contacts ?
+what laws are given when the infection parameter p is critical ?
+what is the issue of state estimation of state estimation ?
+what is a continuous measurement of the incidence rate per unit time ?
+the synthesis method is based on what function ?
+what is the term for information diffusion on a temporal network ?
+what type of node could an infected node node ?
+what has been made in understanding how temporal network features the percentage of nodes ?
+what paper introduces a popular dimension reduction method ?
+what is an extension of sir for the single-index model ?
+what is the partial sliced inverse regression method ?
+what type of type is used to study the process of biology ?
+what use of epidemiology goes back to epidemiology ?
+what model is the presence of only one infectious class ?
+what type of individual response to epidemics may be found within many contexts ?
+what is not neatly in terms of epidemiological ?
+what equations are a novel method for handling this variability ?
+what we consider a microscopic model for host-vector disease ?
+what type of vlasov scaling in vlasov ?
+the resulting system of equations can be seen as what ?
+what model is used in complex networks ?
+what is modeled by a continuous disorder ?
+what happens to the disorder in our model ?
+what type of resources can testing symptomatic ?
+what is an imperfect test of imperfect test ?
+what reduces the epidemic in the expense of potentially misclassifying ?
+what is the name of the performance of two important 5g network ?
+what is the abbreviation for antenna/base station ?
+what is the name of the distribution of the shannon and average shannon ?
+what was served by the church of scotland in 2005 ?
+what type of tb was occurring in the province ?
+what type of tb incidence does tb have on tb ?
+what propose an strategy to suppress epidemic explosion ?
+what have performed stochastic simulations simulations ?
+who found that the epidemic threshold reaches a maximum when the epidemic threshold ?
+what type of observations suggest a heterogeneous nature of human activities ?
+what is well accepted at population distribution ?
+what type of individuals have dierent in dierent ?
+what type of data is used in the netherlands ?
+what happens to the approach of cold cold forecast ?
+what is discussed in their kinetic models ?
+what is the progression of a virus ?
+who address the question of the susceptibility of cells infected with two strains ?
+what type of patterns of infected cells give us insight into local conditions ?
+what type of topics are often the result of information between users of social net works ?
+how many special topics can be regarded as rumors ?
+the spreading of a rumor is what ?
+what are popular tools to simplify the mathematical analysis of stochastic models ?
+how long did it take for non-uniqueness ?
+what problems are solved by an approach of entropy ?
+what has received increasing attention for its great theoretical and practical applications ?
+along with degree centrality and coreness , what is a closeness of detecting ?
+when was the famous h-index introduced ?
+what is the name of the lattice process ?
+what gives a limit theorem of the critical infection rate ?
+what type of model is a linear system ?
+what is an example of a genome genome ?
+what type of bacteria is recognized by p. aeruginosa ?
+what are particle lters ?
+what kind of cost is the cost of particle lters ?
+what aims at reducing the cost of traditional particle ?
+the rise of malicious attacks in the rise of malicious attacks is called what ?
+how many research networks have simulated networks ?
+how many times are susceptible attack or infection in a heterogeneous population ?
+how many estimates of transmission are used to inform public health authorities ?
+what methods estimate exponential growth in case incidence in case incidence ?
+outbreaks can display sub-exponential in what ?
+what is the name of the random variable type of continuous-time ?
+what focus on two important examples of examples of xed ?
+what are assumed to start with a single individual ?
+what remains a signicant burden ?
+what type of responses rely on the understanding of an outbreak ?
+in what country is inuenza in public health ?
+which paper analyzes the impact of user mobility in multi-tier ?
+what is an example of a homogeneous cellular network ?
+what threshold is used to obtain the probability of coverage ?
+what is the critical aspect of the stochastic susceptible-infected-recovered model ?
+the distribution in the number of recovered individuals is called what ?
+what is obtained by exploring the present relationship between the present model and standard percolation theory ?
+who propose a novel sir epidemic model ?
+what is the term for infected nodes nodes ?
+what type of routing is used in the packet transmission ?
+what leads to higher dust temperature ?
+what is commonly seen as reecting in the dust ?
+what has been established on the dynamics of standard epidemic ?
+what nodes nodes upon a recovery policy ?
+what chain transforms the state probability distributions ?
+what kind of tool is the risk ratio for summarizing ?
+what outcomes of infectious disease outcomes are embedded within clusters ?
+who warned that risk ratios are misleading when con - tagious ?
+what type of regulatory dynamics is driven by large and intricate networks ?
+in what part of limited data are many parameters built ?
+what is an example of simple ad hoc models ?
+what is an example of a mathematical approach to epidemiological ?
+what is a natural framework to model of individuals ?
+what is the name of the results obtained by the discussed approach ?
+what is a role in the transmission dynam ?
+what are many diseases that show symptoms of the disease ?
+what is the term for a class of epidemic models ?
+what type of tions ndings in the context of vaccination ?
+what class of people had a tion tion ?
+what is the behavior of con - genital syndrome ?
+what is derived from a honey bee colony ?
+what derive the equilibrium age within the colony ?
+what is a method for determining the basic method of disease ?
+what does the acronym `` t '' stand for ?
+what is not easy to be easy to be achieved ?
+when do we build a new framework for the estimation of epidemic ?
+what is a functional method for the interpolation of given data ?
+what is traditionally called pythagorean normal vector ?
+what is based on the isotropic model of the dual space ?
+what is the model of the general class of models for spreading processes ?
+how many works allow a number of states on arbitrary graphs ?
+what is the name of one of the models studied in the literature ?
+who study the optimal control problem of campaigning resources ?
+what is information about information diffusion ?
+who formulate an optimal control problem for optimizing ?
+what provide the derivation of a super compact pairwise model ?
+what is the super compact model on a new closure relation ?
+what uses an priori approximation of the degree distribution of susceptible nodes nodes ?
+what is the index of x via an index model ?
+which goal is to estimate the euclidean parameter ?
+what approach is based on sliced ?
+what is a challenging task for rectal segmentation ?
+what volumes using the dynamic contrast characteristics of the dynamic contrast characteristics ?
+what was the publication of the framework of patients with rectal ?
+what is the name of the time-optimal control problem ?
+what is an example of a pontryagins minimum principle ?
+when is the optimal strategy to delay the control action ?
+what we study the dynamics of contagious spreading in complex contact networks ?
+what is another name for stochastic spreading process ?
+what kind of quantication decay is crucial for designing epidemic ?
+what does the acronym cr stand for ?
+who outperform the traditional gradient descent ?
+what is an example of a regressor training ?
+what type of models are often subject to dierent ?
+what is a understanding of the combined eects types of uncertainty ?
+what combines a variant of the susceptible-infective-recovered model ?
+what type of work has shown that adaptive optimality al gorithms ?
+what is an example of a adaptive model ?
+what is the interference modelled by a con ict graph ?
+what model of disease spreading the time to ex - tinction ?
+how many contagious infections burn out fast ?
+what is not contagious before they spread to a large fraction of the population ?
+what article is concerned with the rates of disease transmission ?
+what is the name of the basic reproduction number of r0 ?
+along with extinction of the disease , what is one of the impacts of the large and infected population ?
+what type of diseases weaken but do not kill their hosts ?
+what paper presents a simple model of interspecic ?
+what type of approximations are used to determine condi ?
+who consider the problem of nding ?
+what is a problem of importance in several contexts ?
+what is impossible to do from one cascade ?
+what is an example of a downlink signal ?
+what densities are incorporated in the analysis of analysis ?
+what is another name for stochastic geometry ?
+how is the creation of persistence landscape on a parametrized curve ?
+what is the abbreviation for square error of square error ?
+what is more accurate than the way ?
+what type of edges do the cell centers have ?
+what fraction of each region is tuned by the cooperation level ?
+what receives no cooperation on the region ?
+who dedicate the paper to sir john kingman ?
+who described the ancestral history of a population of a population ?
+what type of model is used by diusion ?
+what is another name for transmissible in transmissible ?
+what is an example of a prion prion ?
+what may be amenable to study by molecular dynamics ?
+what can enable design design studies with modern computational models ?
+what techniques use data to reduce the predictor dimension of a regression problem ?
+what is a computational scientist hoping to use for pa ?
+what model is used in the field of epidemiology ?
+how many problem with sir and other existing models are tailored ?
+along with the simulation results , what is the main component of the pseirs model ?
+what is an example of a wireless communication network ?
+what is the abbreviation for the process of wireless network ?
+what happens to a small enough threshold ?
+what has attracted social networks in the physics of social networks ?
+what is an example of a standard epidemi paper ?
+what is one way the network has complex structure of various kinds of transmission ?
+what are sparse in tolerant networks ?
+what follows mechanism for message forwarding in the network ?
+what relies on the intelligent selection of a relay ?
+how many challenges in epidemiology is in epidemiology ?
+what type of complexity brings an inherent heterogeneity in populations ?
+what is the name of the epidemiological outbreak ?
+who study statistical properties and dynamical disease ?
+what parameters correspond to a realistic network of school age ?
+what found that threshold decreases as a power law ?
+what is the name of the s-sparse paper in this period ?
+what is another name for inverse regression ?
+when can = o for some > be larger than some > 0 ?
+what is a resource depletion of target cells ?
+what can decline between resource depletion and pathogen clearance ?
+what we examine data from a previously published experiment ?
+what is one way that a community becomes alarmed ?
+who recommends that departments of health perform a standardized incidence ratio ?
+what approach has several limitations in the literature ?
+who investigate correlated networks against propagating ?
+what simulations simulations the second critical infection rate ?
+what shows that correlated networks are robust to the uncorrelated ?
+on what plane are the wireless base stations deployed ?
+when was the tail asymptotics & haenggi ?
+how many conditions do not mention conditions ?
+what is an example of a tumor tumor ?
+what is no unifying framework in mathematical modeling ?
+what is an example of a modeling virus ?
+who introduce a generalized network to introduce a generalized network ?
+what consists of human travel in a transportation network ?
+what happens to a non-epidemic phase in a epidemic ?
+what do we do with an epidemiological model ?
+what is an example of a sirs-type model ?
+what is the name of the disease that persists in the population ?
+what is considered one of the most convenient and cheapest modes of public transportation in indian cities ?
+what portion of the human population is a part of the human population ?
+how many advantages of public transportation are there in the city ?
+who do susceptible infectious recovered epidemics on random graphs ?
+what is the purpose of the conguration model ?
+what epidemics on the type of graph ?
+who present a lattice gas cellular automaton ?
+the automaton is discrete , time and time of what ?
+what can spread spread of epidemics ?
+what is the name of the carlo carlo carlo simulations ?
+what focus on the case where the connection probability decays with the distance probability decays ?
+what is the graph dimension of the network ?
+who explore the emergence of persistent infection in a closed region ?
+who focus on the role of synchronization in the persistence of synchronization ?
+what is the result of higher degree of synchronization ?
+what type of models represent the invasion of network-based ?
+what is an example of a markovian dynamics ?
+what is the name of the quasi-stationary distribution ?
+what paper studies the dynamics of a epidemic ?
+what type of type can be used to describe the psychological or inhibitory change ?
+how is epidemic obtained ?
+who develop a feedback control method ?
+what develops a novel framework for feedback control ?
+what develop an observation model for the epidemic process ?
+what does the acronym sir stand for ?
+how long is the mechanism of high-dimensional ?
+what type of solutions can enable the tradeoff between computational cost and statistical performances ?
+what is seen as a contagious process in internet media outlets ?
+in what article is the methodology based on the application of natural language ?
+what is the reconstructed network from the reconstructed network called ?
+in what month of the year did the 2012-2013 season occur ?
+what month was the forecast forecast made on ?
+which season of american idol was presented by forecasts ?
+what is the name of the model for the sei model ?
+what can obtain an analytic solution of a system ?
+what happened to the dengue model ?
+what type of models describing the spatial spread of rabies among foxes ?
+what is divided into fox in these models ?
+what is based on the fact that susceptible foxes are territorial ?
+where is the center of a graph graph ?
+what is the center of the center of random growing trees ?
+where do we consider a regular tree graph ?
+what is to compare three regularized particle in an online data ?
+who carry out the comparison of hidden states ?
+what is the name of the sequential sequential particle ?
+which graph epidemic on a random graph graph ?
+what infective vertices at a constant rate of susceptible neighbours ?
+what is an example of a infective vertices ?
+what is the name of the model where the mechanism for the re is demographic ?
+what is the phase diagram of the phase diagram called ?
+what have performed a constant correlation parameter of the model of the model ?
+what do we do with the propagation of a malicious software in a network of mobile devices ?
+how many mobile devices are there in mobile devices ?
+how do we guarantee that the susceptible devices in the city get infected ?
+in what century did many authors study the impact of the disease ?
+how many authors focused on the temporal unfolding unfolding ?
+what mimics the dynamic of the susceptible-infected-recovered model ?
+what is the name of the multi-type epidemic ?
+who is in charge of the graph graph ?
+what is an example of a characterisation theory ?
+what have disease outbreaks in 2003 ?
+what provide a vector for the spatial spread of infection ?
+what type of model describing the spatial dynamics of disease transmission ?
+what propose some mathematical models for the transmission of reaction-diusion ?
+what happens to mosquitoes when mosquitoes ?
+symmetries of the models and we study what point of the models ?
+what is the main purpose of a communicable paper ?
+the ma jor novelty novelty is a model of what model ?
+how is the stochastic process of the stochastic process introduced ?
+who propose a low complexity antenna selection algorithm ?
+what is another name for each remote radio head ?
+what is randomly selected within the rst phase ?
+who study switching social contacts as a strategy to control epidemic ?
+what can be broken by individual individuals ?
+what happens to the infor individual ?
+what monte carlo methods is introduced to simulate markovian ?
+who apply an epidemic generalized sirs model ?
+what is the name of the method used in a region with ministic ?
+who study the role of demographic endemics ?
+what master of the model is simulated using exact numerics ?
+what is unstable to internal demographic noise ?
+who consider the problem of identifying rumor sources in a network ?
+how much existing approaches did our algorithm iden ?
+what is an example of a reduced-complexity algorithm ?
+what is the name of the mean-eld epidemic ?
+where are individuals of size n limited to individuals limited ?
+what type of laws are given when the infection parameter p is critical ?
+what deterministic deterministic deterministic at 0 ?
+the behaviour of the process is mainly determined by what ?
+what has only been given when all exponents results ?
+what paper deals with the statistical signal of tracking infection ?
+what is another term for infection ?
+what is employed to approximate the discrete degree distribution evolution ?
+who prove a central limit theorem for the proportion of infected individuals for an epidemic ?
+how many random walk makes a virus ?
+who is connected to vertices ?
+what type of theory can be found in ordinary dierential equations ?
+how many studies rely on systems with real parameters ?
+what is the dierential model in the dierential model ?
+what epidemiological epidemiological epidemiological ?
+who give a complete global analysis in terms of three explicit threshold ?
+what type of paper is busenberg ?
+what is the name of the paper that studies the problem of detecting ?
+who assume all nodes nodes in the network ?
+do infected nodes nodes after recovery ?
+what are crucial for identifying the infection states of nodes ?
+what is a relatively small set of nodes state ?
+what is the length of time that each node node ?
+what simulations simulations a single result of input parameters ?
+what methods are used to understand how changes in input parameters ?
+what is able to produce different output results on each run ?
+what vary from physical contacts and face-to-face ?
+what type of processes are complicated on temporal networks ?
+what type of approaches are needed for identifying key factors in epidemics ?
+what is the name of the susceptible-infectious-removed dynamics ?
+who prove that representation generates the ex - pected infectious time ?
+what does e p 8 represent ?
+what is on the behaviour of the rightmost particle ?
+what is the relationship between coupled and reaction-diusion ?
+what company arrived at the university of oxford in 1973 ?
+what is the name of the epidemiological model ?
+how long is the use of a nonlinear pro ?
+what produces a low dimensional model of disease outbreak ?
+newman claimed that the bonds are the edges of what ?
+to what epidemic is the epidemic percolation ?
+what type of epidemic is equal to the probability that an infection occurs ?
+what type of transmission is an effective means of improving network ?
+what is seriously weakened if imperfect coordination happens ?
+what works do not consider overhead message delays ?
+what do infected infected individuals spread to at xed rate ?
+who introduced the chase-escape process ?
+what is the study of the rst study ?
+what are seldom isolated from their environment ?
+who is considered a distinct network due to strong local ties ?
+who study the susceptible-infected-recovered process ?
+what type of populations can be found in population ?
+what is analogous to the process of trapped particles ?
+what can be used to solve similar biological problems ?
+what type of model is used to use disease ?
+what are more accurate stochastic models of disease spread on ?
+what is the simplest case of a stochastic susceptible-infected-susceptible process ?
+what community structure is ubiquitous in complex networks ?
+what happened to networks with non-overlapping in this era ?
+the interconnection density between communities is between what group of people ?
+the aim of natural death is to study what equation ?
+what is the rate of convergences ?
+what is an example of a epidemic epidemic ?
+who is grouped according to the centrality measure ?
+what is to maximize an objective function which is a linear combination of the reward due to deadline ?
+what processes spreads via the aected ?
+what has been modeled extensively using deterministic ?
+what is an example of a susceptible-infected-removed susceptible-infected-removed ?
+what is the name of the susceptible-infected-susceptible model ?
+what is the name of the process for a single communicable disease ?
+how long is the disease spreading forecasting ?
+what epidemic models have proven valuable for public health decision ?
+how many models can be observed because of the disease spread ?
+what is the name of the epidemic epidemic ?
+how is great signicance in controlling outbreaks ?
+what is another name for susceptible-infectious-recovered ?
+what is the impact of the impact of community structure ?
+what outbreak occurs in west africa ?
+what is the most lethal disease in previous outbreaks ?
+what month was the world health organization declared in 2014 ?
+what is the abbreviation for the susceptible-infected-recovered-infected model ?
+what is another name for the heterogeneous infection ?
+what uses the observations of node ?
+how did the use of an appropriately designed pulse designed ?
+what happens at a cost of long lter tails ?
+what type of output can reduce the overhead by discarding the overhead by discarding the overhead ?
+what is the analysis of bootstrap ?
+what is a class of infection processes ?
+how many susceptible infected neighbours becomes infected ?
+what is the name of the epidemic epidemic ?
+why is a susceptible vertex infected at rate proportional ?
+can a removed vertex be infected ?
+how many tools are popular for online information diffusion model ?
+what originate from epidemiology from epidemiology ?
+what is the rate of event sequences in modu ?
+what models consider that individual processes occur at constant rates ?
+what is a constant probability per unit after contagion ?
+which assumption fails for almost all infectious diseases ?
+what is the name of the distribution of distribution at the typical receiver ?
+what paper introduces the notion of the notion of the conditional success ?
+who is responsible for the meta distribution ?
+what is the name of the stochastic paper that a susceptible vertex is infected ?
+how many edge weights are assumed to be i.i.d. ?
+what extends the limits of the two models ?
+what bands have been a possible candidate for cellular networks ?
+what is important to design mmwave ?
+what type of channel is used for stochastic geometry ?
+what has been a proliferation of epi ?
+what is mathematically interesting about their relevance ?
+what is an example of a model for an epidemic ?
+who study the effect of external infection sources ?
+what dynamics dynamics an epidemic spreading on a network ?
+what is the name of the model that captures many existing models ?
+what type of virus is investigated by the monte carlo method ?
+what happens to the model dierent ?
+what is associated with two distinct types of cells ?
+what is one of the most important infectious diseases in the world ?
+what is the term for the modeling modeling ?
+what is the name of the mosquito mosquito ?
+who study a class of sirs dynamical ?
+what is the incidence rate of the incidence rate ?
+what is the name of the disease-free equilibrium principle ?
+what is the name of the sis epidemics ?
+who examine that humans perceive probabilities in a nonlinear fashion ?
+the cost of curing rate is the cost of what epidemic ?
+who study dynamics of sir type in a realistic geographical region ?
+what incorporates the random nature of disease transmission ?
+what is required for inhomogeneous in inhomogeneous ?
+what has attracted the interplay between diseases and behavioral responses ?
+how does the lack of clinical evidence of diseases compare to the lack of diseases ?
+what is the outcome of the impacts of asymptomatic ?
+what is crucial for acceler in social networks ?
+the shortest path distance between two nodes nodes and what else ?
+what indicates the gravity centrality index and some well-known centralities index ?
+what model has successfully mimicked the propagation of airborne diseases ?
+how long has the sir model been studied ?
+how many layers focus on our study in an epidemic model ?
+what has activated global epidemics in the real world ?
+what have been made to understand the impacts of macroscopic statistics ?
+where are ties not clear to the academic community ?
+what has been directed towards mathematical models ?
+what is another name for sir sir sir ?
+how many components of the ebola disease are there ?
+what is the name of the article that trials in the ebola epidemic ?
+cluster randomized trials are of what for disease ?
+how does leveraging information about these networks propose information about these networks ?
+what type of technology are aerial base stations a part of ?
+how many existing frameworks do not characterize the impact of ground ?
+what could address the effect of interference coming from the aerial link ?
+what is the epidemic model of a epidemic ?
+how many conditions prove the existence of backward bifurcation ?
+who explore the mechanism of backward bifurcation ?
+in what type of times has the domain of network become useful ?
+what type of cities analyze the statistical properties of bus networks ?
+how many public transport networks are on the structure of bus networks ?
+what virus is one of the most virulent pathogens ?
+what is the name of the mathematical description of dierent ?
+how is the ebola virus described ?
+who investigate the role of global mixing in epidemic processes ?
+what is the name of the simplied epidemic ?
+what model examine possible mechanisms for destruction of spatial data ?
+when does an infection of becoming infected in a community form ?
+what has knowledge regarding an individ susceptibility ?
+who study the problem of predicting if an individual will adopt a conta ?
+what paper deals with an sir model with an sir model ?
+how many control functions have been used in infected population ?
+what have analysed the existence of equilibrium points ?
+what type of diseases spread through human networks ?
+what is one of the epidemic models to describe infection dynamics ?
+who is the model in the metapopulation model ?
+what is a popular public conversation platform with world-wide forms ?
+what type of networks introduce the concept of aggregated ?
+how do the study of a follower and a mention graph study ?
