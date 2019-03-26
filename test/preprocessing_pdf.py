@@ -10,19 +10,6 @@ Created on Wed Jan  2 11:21:36 2019
 This code preprocess pdfs for the QG-Net (Query Generation) algorithm
 """
 
-# Here are notes from the author for preprocessing 2\. Assemble the CoreNLP 
-#output into a text document similar to `input.txt` in the path 
-#`QG-Net/test/input.for.test/`. The format is, one sentence per line; 
-#in each line are space-separated word-feature; each word-feature is in the
-#format of `word|feature1|feature2|feature3|answer-token`. When you process 
-#your custom input using CoreNLP, you will get the first three features but 
-#not the last one. You will need to manually fill in the last feature for each
-#word in your input. The first three features are: case (upper case or lower
-#case), part of speech tag (POS), and name entity tag (NER). You can easily
-#assemble CoreNLP output to the above format by looping through the CoreNLP 
-#output for each feature. You may need to specify CoreNLP output format that 
-#allows you to do this easily.
-
 
 import slate
 import pynlp
@@ -50,7 +37,9 @@ def tfidf(word, blob, bloblist):
     return tf(word, blob) * idf(word, bloblist)
 
 
-
+"""
+Function to create preprocessing input.txt for QG-Net based on the first 3 sentences of an abstract included in a pdf article.
+"""
 
 def preprocess_pdf(text_no_title):     
 
@@ -70,8 +59,6 @@ def preprocess_pdf(text_no_title):
         sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     #selects the word with highest tf-idf score in the dataset
         for word, score in sorted_words[:1]:
-        #print("Word: {}, TF-IDF: {}".format(word, round(score, 5)))
-        #print(word,i+1)
             top_words.append(word)
     
     #first sentence
@@ -131,14 +118,15 @@ def preprocess_pdf(text_no_title):
 import os
 
 
+"""
+directory0 is the directory that includes all the pdf articles
+"""
 directory0 = "/Users/domonique_hodge/Documents/qgnet/QG-Net/papers/arxiv"    
 directory = os.fsencode(directory0)   
     
 for file in os.listdir(directory):
     filename = os.fsdecode(file)
     if filename.endswith(".pdf"): 
-        #had to edit the next line because there was an error. 
-        #annotators = 'tokenize, ssplit, pos, lemma, ner, entitymentions, coref, sentiment, quote, openie'
         annotators = 'tokenize, ssplit, pos, lemma, ner'
         options = {'openie.resolve_coref': True}
 
@@ -155,12 +143,10 @@ for file in os.listdir(directory):
                 doc = slate.PDF(f)
         except:
             print("An exception occurred")
-            #  raise PDFSyntaxError('No /Root object! - Is this really a PDF?') pdfminer.pdfparser.PDFSyntaxError: No /Root object! - Is this really a PDF?
       
-
         doc = ' '.join([' '.join(x.split()) for x in doc])
         
-        #verify  its an abstract in the paper
+        #verify an abstract in the paper
         text_split = doc.split('Abstract.')
         if len(text_split)>1:
             text_no_title = ' '.join(text_split[1:])
@@ -191,30 +177,3 @@ for file in os.listdir(directory):
                     else:
                         continue
 
-###### Access information
-# AWS instance
-#
-#1. Cd .ssh
-#
-#2. ssh -i id_rsa domonique(edited-see my notes)
-
-##### CORENLP server                       
-#1. Download Stanford CoreNLP
-#: https://stanfordnlp.github.io/CoreNLP/corenlp-server.html
-#
-#2. Cd Must be in the library of Stanford CoreNLP download
-#
-#3. java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
-
-##### Output Preprocessing file for qgnet format
-#Cd to directory and run: python3 preprocessing_pdf.py > input_update.txt
-
-##### To  move from local machine to AWS
-#
-#scp -i .ssh -r /Users/domonique_hodge/Documents/qgnet/QG-Net/papers/input.txt domonique_hodge@dc-dev-server.g(edited-see my notes)
-#
-##Get rid of trailing spaces
-#sed 's/ *$//' input2.txt > input.txt
-
-#remove lines with whitespace
-#sed '/^[[:space:]]*$/d' input_using.txt > input.txt                       
