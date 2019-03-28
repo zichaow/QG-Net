@@ -10,170 +10,153 @@ Created on Wed Jan  2 11:21:36 2019
 This code preprocess pdfs for the QG-Net (Query Generation) algorithm
 """
 
+import corenlp
 
-import slate
-import pynlp
-from pynlp import StanfordCoreNLP
+# import pynlp
+# from pynlp import StanfordCoreNLP
 import warnings
 import logging
 
-import math
-from textblob import TextBlob as tb
-import nltk
-nltk.download('stopwords')
-from nltk.corpus import stopwords
+
+#
+# New required imports
+# 
+import json
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sortedcontainers import SortedDict
 
 
-def tf(word, blob):
-    return blob.words.count(word) / len(blob.words)
+def preprocess_pdf(abstract, features, tfidf, num_sentences=3):
+    '''
+    Chooses top `num_sentences` based on the sum of their terms' TF-IDF scores,
+    and then picks the word/term in each sentence with the top TF-IDF score as
+    the "answer."
+    '''
+    document = nlp.annotate(abstract)
+    term_scores = [(w,s) for w, s in zip(tfidf.get_feature_names(), features.reshape(-1)) if s > 0]
+    sent_scores = SortedDict()
 
-def n_containing(word, bloblist):
-    return sum(1 for blob in bloblist if word in blob)
+    for i, sentence in enumerate(document['sentences']):
+        score = sum([s for w, s in term_scores if w in str(sentence)])
+        sent_scores[score] = i
 
-def idf(word, bloblist):
-    return math.log(len(bloblist) / (1 + n_containing(word, bloblist)))
-
-def tfidf(word, blob, bloblist):
-    return tf(word, blob) * idf(word, bloblist)
-
-
-"""
-Function to create preprocessing input.txt for QG-Net based on the first 3 sentences of an abstract included in a pdf article.
-"""
-
-def preprocess_pdf(text_no_title):     
-
-#only formats the first 3 sentences in the abstract
-    document = nlp(text_no_title)
     warnings.filterwarnings('ignore', category=UserWarning, append=True)
     
-    first_sentence = document[0]
-    second_sentence = document[1]
-    third_sentence = document[2]
-    
-    #tf-idf
-    top_words = []
-    bloblist = [tb(str(first_sentence)),tb(str(second_sentence)),tb(str(third_sentence))]
-    for i, blob in enumerate(bloblist):
-        scores = {word.lower(): tfidf(word.lower(), blob, bloblist) for word in blob.words if word not in stopwords.words('english')}
-        sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-    #selects the word with highest tf-idf score in the dataset
-        for word, score in sorted_words[:1]:
-            top_words.append(word)
-    
-    #first sentence
-    for token in first_sentence: 
-        if str(token).isalpha() and str(token).islower() and str(token).lower()==top_words[0]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        elif str(token).isalpha() and str(token)[0].isupper() and str(token).lower()==top_words[0]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨A', end =" ",sep='')
-        elif str(token).isalpha() and str(token)[0].isupper()  and str(token).lower()!=top_words[0]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨-', end =" ",sep='')
-        elif str(token).isalpha() and str(token).islower() and str(token).lower()!=top_words[0]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨-', end =" ", sep='')
-        elif str(token).isalpha()==False and str(token)[0].replace('-', '').isupper() and str(token).lower()==top_words[0]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        elif str(token).isalpha()==False and str(token).replace('-', '').islower() and str(token).replace('-', '').lower()==top_words[0]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        else:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨-', end =" ",sep='')
-    print('\n')
-    #second sentence
-    for token in second_sentence: 
-        if str(token).isalpha() and str(token).islower() and str(token).lower()==top_words[1]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        elif str(token).isalpha() and str(token)[0].isupper() and str(token).lower()==top_words[1]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨A', end =" ",sep='')
-        elif str(token).isalpha() and str(token)[0].isupper()  and str(token).lower()!=top_words[1]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨-', end =" ",sep='')
-        elif str(token).isalpha() and str(token).islower() and str(token).lower()!=top_words[1]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨-', end =" ", sep='')
-        elif str(token).isalpha()==False and str(token)[0].replace('-', '').isupper() and str(token).lower()==top_words[1]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        elif str(token).isalpha()==False and str(token).replace('-', '').islower() and str(token).replace('-', '').lower()==top_words[1]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        else:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨-', end =" ",sep='')
-    print('\n')
-    
-    #third sentence
-    for token in third_sentence: 
-        if str(token).isalpha() and str(token).islower() and str(token).lower()==top_words[2]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        elif str(token).isalpha() and str(token)[0].isupper() and str(token).lower()==top_words[2]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨A', end =" ",sep='')
-        elif str(token).isalpha() and str(token)[0].isupper()  and str(token).lower()!=top_words[2]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨-', end =" ",sep='')
-        elif str(token).isalpha() and str(token).islower() and str(token).lower()!=top_words[2]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨-', end =" ", sep='')
-        elif str(token).isalpha()==False and str(token)[0].replace('-', '').isupper() and str(token).lower()==top_words[2]:
-            print(str(token).lower(),'￨U￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        elif str(token).isalpha()==False and str(token).replace('-', '').islower() and str(token).replace('-', '').lower()==top_words[2]:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨A', end =" ", sep='')
-        else:
-            print(str(token).lower(),'￨L￨',token.pos,'￨',token.ner,'￨-', end =" ",sep='')
-    print('\n')
-    
-    
-import os
+    for i in reversed(sent_scores.values()):
+        out_str = ''
+        if i >= num_sentences:
+            break
+
+        sentence = document['sentences'][i]
+        str_sent = ' '.join([t['originalText'] for t in sentence['tokens']])
+        top_term = sorted([(w,s) for w, s in term_scores if w in str_sent],
+                             key=lambda x: x[1], reverse=True)[0][0]
+        top_term = top_term.split()
+
+        for i, token in enumerate(sentence['tokens']): 
+            tok_text = token['originalText']
+
+            if tok_text[0].isupper():
+                low = 'U'
+            else:
+                low = 'L'
+
+            if len(top_term) > 0:
+                ans = 'A'
+            else:
+                ans = '-'
+
+            for j, t in enumerate(top_term):
+                if sentence['tokens'][i+j]['originalText'] != top_term[j]:
+                    ans = '-'
+                    break
+
+            if ans =='A' and len(top_term) > 0:
+                del top_term[0]
+
+            out_str += "{}￨{}|{}|{}|{} ".format(tok_text,low,token['pos'],token['ner'],ans)
+        print(out_str + '\n')
 
 
-"""
-directory0 is the directory that includes all the pdf articles
-"""
-directory0 = "/Users/domonique_hodge/Documents/qgnet/QG-Net/papers/arxiv"    
-directory = os.fsencode(directory0)   
-    
-for file in os.listdir(directory):
-    filename = os.fsdecode(file)
-    if filename.endswith(".pdf"): 
-        annotators = 'tokenize, ssplit, pos, lemma, ner'
-        options = {'openie.resolve_coref': True}
+# 
+# function copied over from https://github.com/GallupGovt/multivac/blob/master/src/data/parsing.py
+# 
 
-        nlp = StanfordCoreNLP(annotators=annotators, options=options)
-    
-        #logging suppresses warnings in pdf import
-        logging.propagate = False 
-        logging.getLogger().setLevel(logging.ERROR)
+def load_data(jsonPath, picklePath = None):
+    """Load data - if picklePath is specified, load the pickle. Else, try json file.
+    This returns the JSON file as well as a list of document texts 
+    """
+    if picklePath is not None:
+        l_docs = pickle.load(open(picklePath, "rb" ))
+    else:
+
+        ## Read JSON data into the datastore variable - this comes from Peter and Domonique's effort. Don
+        with open(jsonPath, 'r') as f:
+            datastore = json.load(f)
+                  
+        ## These were some bad files - nothing substantive in them, or they were retrieved in bad format
+        for e in ['1805.10677v1', '0911.5378v1']: 
+            if e in datastore:
+                del datastore[e]
+                
+        ## Extract texts
+        l_docs = [value['text'] for key,value in list(datastore.items())[0:] if value['text'] ]
         
-        #print(filename)
-        pdf = os.path.join(directory0,filename)
-        try:
-            with open(pdf,'rb') as f:
-                doc = slate.PDF(f)
-        except:
-            print("An exception occurred")
-      
-        doc = ' '.join([' '.join(x.split()) for x in doc])
-        
-        #verify an abstract in the paper
-        text_split = doc.split('Abstract.')
-        if len(text_split)>1:
-            text_no_title = ' '.join(text_split[1:])
-            text_no_title=str(text_no_title).encode('latin-1', 'ignore') 
-            text_no_title=  text_no_title[0:1000]
-            preprocess_pdf(text_no_title)
-        elif len(text_split)<=1:
-            text_split = doc.split('ABSTRACT.')
-            if len(text_split)>1:
-                text_no_title = ' '.join(text_split[1:])
-                text_no_title=str(text_no_title).encode('latin-1', 'ignore') 
-                text_no_title=  text_no_title[0:1000]
-                preprocess_pdf(text_no_title)
-            elif len(text_split)<=1:
-                text_split = doc.split('Abstract')
-                if len(text_split)>1:
-                    text_no_title = ' '.join(text_split[1:])
-                    text_no_title=str(text_no_title).encode('latin-1', 'ignore') 
-                    text_no_title=  text_no_title[0:1000]
-                    preprocess_pdf(text_no_title)
-                elif len(text_split)<=1:
-                    text_split = doc.split('ABSTRACT')
-                    if len(text_split)>1:
-                        text_no_title = ' '.join(text_split[1:])
-                        text_no_title=str(text_no_title).encode('latin-1', 'ignore') 
-                        text_no_title=  text_no_title[0:1000]
-                        preprocess_pdf(text_no_title)
-                    else:
-                        continue
+    print('# of documents: ', len(l_docs))
+    
+    return datastore, l_docs
+
+
+def create_tf_idf(docs, writeFile=True, pathToFolders=''):
+    """ Creates a TF-IDF matrix of terms in the corpus and saves this to disk
+        as a sparse matrix in the data/processed folder when writeFile=True and 
+        pathToFolders is provided.
+    """
+
+    tfidf = TfidfVectorizer(sublinear_tf=True, 
+                            min_df=10, 
+                            norm=None, 
+                            ngram_range=(1, 3), 
+                            stop_words='english', 
+                            use_idf=True,
+                            smooth_idf=True)
+
+    features = tfidf.fit_transform(docs)
+
+    if writeFile:
+        if len(pathToFolders) == 0:
+            pathToFolders = settings.processed_dir
+
+        with open(pathToFolders / 'multivac_tfidf.pkl', 'wb') as f:
+            pickle.dump({'features': features, 'tfidf': tfidf}, f)
+
+        return True
+    else:
+        return features, tfidf
+
+
+# ####################
+#
+# Substitute this hard-coded path for a path passed during the automated 
+# pre-processing. 
+# 
+# ####################
+
+jsonObj, allDocs = load_data("cleanedArticles-03042019.json")
+abstracts = [] 
+
+for value in jsonObj.values(): 
+    if "summary" in value['metadata']: 
+        abstracts.append(value['metadata']["summary"]) 
+    elif "abstract" in value['metadata']: 
+        abstracts.append(value['metadata']["abstract"]) 
+
+nlp = corenlp.CoreNLPClient(output_format='json')
+
+# Once we've determined the proper filepath to output, we can change 
+# this call to write the files out to disk
+features, tfidf = create_tf_idf(abstracts, False)
+
+for i, abstract in enumerate(abstracts):
+    preprocess_pdf(abstract, features[i,:].toarray(), tfidf)
 
