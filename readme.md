@@ -9,7 +9,7 @@ and R. G. Baraniuk.
 QG-Net: A Data-Driven Question Generation Model 
 for Educational Content. 
 _ACM Conference on Learning at Scale (L@S)_, 
-June 2018, to appear 
+June 2018
 
 ![Illustration of QG-Net](QG-Net-illustration.png)
 *Illustration of QG-Net*
