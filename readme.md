@@ -11,7 +11,7 @@ for Educational Content.
 _ACM Conference on Learning at Scale (L@S)_, 
 June 2018, to appear 
 
-![Illustration of QG-Net](https://rice.box.com/v/qgnetillustration)
+![Illustration of QG-Net](https://rice.box.com/v/qgnetillustration.png)
 *Illustration of QG-Net*
 
 The project is built on top of 
