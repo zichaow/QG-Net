@@ -11,7 +11,7 @@ for Educational Content.
 _ACM Conference on Learning at Scale (L@S)_, 
 June 2018, to appear 
 
-![Illustration of QG-Net](https://rice.box.com/v/qgnetillustration.png)
+![Illustration of QG-Net](QG-Net-illustration.png)
 *Illustration of QG-Net*
 
 The project is built on top of 
@@ -143,7 +143,7 @@ sequence as generated words.
 
 Below is a more elaborate illustration of QG-Net model:
 
-![Illustration of QG-Net](https://rice.box.com/shared/static/9bwiyq2ly84h7rev8xvjdrocnd5v312f.png)
-*Illustration of QG-Net*
+![Illustration of QG-Net](model.png)
+*Illustration of QG-Net Model*
 
 
